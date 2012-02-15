@@ -27,11 +27,11 @@ msgstr "API"
 
 #: r2/controllers/api.py:139
 msgid "thanks for your message! you should hear back from us shortly."
-msgstr "gracies pel teu missatge! en breu hauries de rebre noticies nostres."
+msgstr "gràcies pel missatge! aviat rebràs notícies nostres."
 
 #: r2/controllers/api.py:167
 msgid "your message has been delivered"
-msgstr "el teu missatge ha estat entregat"
+msgstr "el missatge ha estat entregat"
 
 #: r2/controllers/api.py:356
 msgid "no title found"
@@ -55,7 +55,7 @@ msgstr "desats"
 
 #: r2/controllers/api.py:609
 msgid "you should be getting a verification email shortly."
-msgstr ""
+msgstr "aviat rebràs un correu electrònic de verificació."
 
 #: r2/controllers/api.py:611
 msgid "your email has been updated"
@@ -63,8 +63,7 @@ msgstr "la teva adreça de correu electrònic ha estat actualitzada"
 
 #: r2/controllers/api.py:620
 msgid "your email and password have been updated"
-msgstr ""
-"la teva adreça de correu electrònic i la teva contrasenya han estat "
+msgstr "la teva adreça de correu electrònic i la teva contrasenya han estat "
 "actualitzades"
 
 #: r2/controllers/api.py:623
@@ -81,11 +80,11 @@ msgstr "compartit"
 
 #: r2/controllers/api.py:965
 msgid "your link has been shared."
-msgstr ""
+msgstr "el teu enllaç ha estat compartit."
 
 #: r2/controllers/api.py:1065
 msgid "validation errors"
-msgstr ""
+msgstr "errors de validació"
 
 #: r2/controllers/api.py:1165 r2/controllers/api.py:1879 r2/lib/menus.py:157
 #: r2/templates/printablebuttons.html:33
@@ -100,11 +99,11 @@ msgstr ""
 #: r2/controllers/api.py:1219
 #, python-format
 msgid "too many images (you only get %d)"
-msgstr ""
+msgstr "massa imatges (en pots tenir %d)"
 
 #: r2/controllers/api.py:1227
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Imatge invàlida o error general d'imatge"
 
 #: r2/controllers/api.py:1682
 msgid "claimed! now go to someone's userpage and give them a present!"
@@ -116,11 +115,11 @@ msgstr ""
 
 #: r2/controllers/api.py:1703
 msgid "an email will be sent to that account's address shortly"
-msgstr ""
+msgstr "aviat s'enviarà un correu electrònic a l'adreça d'aquest compte"
 
 #: r2/controllers/api.py:1705
 msgid "try again tomorrow"
-msgstr ""
+msgstr "torna-ho a intentar demà"
 
 #: r2/controllers/api.py:1932 r2/controllers/api.py:2113
 msgid "invalid css class"
@@ -136,7 +135,7 @@ msgstr ""
 
 #: r2/controllers/buttons.py:201 r2/controllers/buttons.py:209
 msgid "reddit buttons"
-msgstr "botons de reddit "
+msgstr "botons de reddit"
 
 #: r2/controllers/buttons.py:215
 msgid "reddit widget"
@@ -157,11 +156,11 @@ msgstr "edita aquesta pàgina"
 
 #: r2/controllers/embed.py:66
 msgid "yes, it's okay!"
-msgstr "si, està be!"
+msgstr "sí, està bé!"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr ""
+msgstr "primer llegeix això."
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:425
 #: r2/templates/frametoolbar.html:107
@@ -171,23 +170,23 @@ msgstr "ajuda"
 #: r2/controllers/error.py:141
 #, python-format
 msgid "forbidden (%(domain)s)"
-msgstr ""
+msgstr "(%(domain)s) prohibit"
 
 #: r2/controllers/error.py:162
 msgid "this reddit has been banned"
-msgstr ""
+msgstr "aquest reddit ha estat prohibit"
 
 #: r2/controllers/errors.py:27
 msgid "please login to do that"
-msgstr ""
+msgstr "per fer això has d'iniciar sessió"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
-msgstr ""
+msgstr "per fer això has d'establir una adreça de correu electrònic vàlida."
 
 #: r2/controllers/errors.py:29
 msgid "a url is required"
-msgstr ""
+msgstr "es requereix una url"
 
 #: r2/controllers/errors.py:30
 msgid "you should check that url"
@@ -195,11 +194,11 @@ msgstr "hauries de comprovar aquesta url"
 
 #: r2/controllers/errors.py:31
 msgid "care to try these again?"
-msgstr ""
+msgstr "ho vols tornar a intentar?"
 
 #: r2/controllers/errors.py:32
 msgid "invalid user name"
-msgstr "nom d'usuari invalid"
+msgstr "nom d'usuari invàlid"
 
 #: r2/controllers/errors.py:33
 msgid "that username is already taken"
@@ -207,11 +206,11 @@ msgstr "aquest nom d'usuari ja està agafat"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "aquest nom d'usuari està agafat per un compte esborrat"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "no pots enviar a un usuari que tens bloquejat"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -223,27 +222,27 @@ msgstr "no pots fer això"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "no has iniciat sessió amb aquest nom d'usuari"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "l'enllaç on has comentat ha estat esborrat"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
-msgstr ""
+msgstr "aquest comentari ha estat esborrat"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "aquest element ha estat esborrat"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "aquesta contrasenya no és acceptable"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
-msgstr "contrasenya invalida"
+msgstr "contrasenya invàlida"
 
 #: r2/controllers/errors.py:44
 msgid "passwords do not match"
@@ -251,15 +250,15 @@ msgstr "les contrasenyes no concorden"
 
 #: r2/controllers/errors.py:45
 msgid "please enter a name"
-msgstr "si us plau introdueix un nom"
+msgstr "introdueix un nom"
 
 #: r2/controllers/errors.py:46
 msgid "please enter an email address"
-msgstr "si us plau introdueix una adreça de correu electrònic"
+msgstr "introdueix una adreça de correu electrònic"
 
 #: r2/controllers/errors.py:47
 msgid "no email address for that user"
-msgstr "no hi ha cap adreça de correu electrònic per aquest usuari"
+msgstr "no hi ha cap adreça de correu electrònic per a aquest usuari"
 
 #: r2/controllers/errors.py:48
 msgid "send it to whom?"
@@ -267,7 +266,7 @@ msgstr "a qui li enviem?"
 
 #: r2/controllers/errors.py:49
 msgid "please enter a subject"
-msgstr "si us plau escriu un assumpte"
+msgstr "escriu un assumpte"
 
 #: r2/controllers/errors.py:50 r2/templates/gold.html:144
 msgid "that user doesn't exist"
@@ -275,16 +274,16 @@ msgstr "aquest usuari no existeix"
 
 #: r2/controllers/errors.py:51
 msgid "please enter a username"
-msgstr "si us plau introdueix un nom d'usuari"
+msgstr "introdueix un nom d'usuari"
 
 #: r2/controllers/errors.py:53
 #, python-format
 msgid "that number isn't in the right range (%(min)d to %(max)d)"
-msgstr ""
+msgstr "aquest nombre no és en el rang correcte (de %(min)d a %(max)d)"
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
-msgstr ""
+msgstr "has fet servir un caràcter que no podem utilitzar"
 
 #: r2/controllers/errors.py:55
 #, python-format
@@ -299,19 +298,19 @@ msgstr "aquest enllaç ja ha sigut enviat"
 
 #: r2/controllers/errors.py:57
 msgid "that reddit already exists"
-msgstr ""
+msgstr "aquest reddit ja existeix"
 
 #: r2/controllers/errors.py:58
 msgid "that reddit doesn't exist"
-msgstr ""
+msgstr "aquest reddit no existeix"
 
 #: r2/controllers/errors.py:59
 msgid "you aren't allowed to post there."
-msgstr ""
+msgstr "no t'està permès publicar aquí."
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "has d'especificar un subreddit"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -320,7 +319,7 @@ msgstr "aquest nom no funcionarà"
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr ""
+msgstr "ho estàs fent massa. torna-ho a intentar en %(time)s."
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -332,21 +331,21 @@ msgstr "primer has d'acceptar les condicions"
 
 #: r2/controllers/errors.py:68
 msgid "that option is not valid"
-msgstr "aquesta opció no és valida"
+msgstr "aquesta opció no és vàlida"
 
 #: r2/controllers/errors.py:70
 #, python-format
 msgid "the following emails are invalid: %(emails)s"
-msgstr ""
+msgstr "les adreces de correu següents són invàlides: %(emails)s"
 
 #: r2/controllers/errors.py:71
 msgid "please enter at least one email address"
-msgstr ""
+msgstr "si us plau, introdueix almenys una adreça de correu electrònic"
 
 #: r2/controllers/errors.py:72
 #, python-format
 msgid "please only share to %(num)s emails at a time."
-msgstr ""
+msgstr "comparteix amb %(num)s correus a la vegada."
 
 #: r2/controllers/errors.py:73
 #, python-format
@@ -364,26 +363,26 @@ msgstr ""
 
 #: r2/controllers/errors.py:75
 msgid "please provide a date of the form mm/dd/yyyy"
-msgstr ""
+msgstr "si us plau, introdueix una data en la forma mm/dd/aaaa"
 
 #: r2/controllers/errors.py:76
 msgid "the dates need to be in order and not identical"
-msgstr ""
+msgstr "les dates han d'estar en ordre i no ser iguals"
 
 #: r2/controllers/errors.py:77
 #, python-format
 msgid "please enter a date at least %(day)s days in the future"
-msgstr ""
+msgstr "introdueix una data almenys %(day)s en el futur"
 
 #: r2/controllers/errors.py:78
 #, python-format
 msgid "please enter a date at least %(day)s days in the past"
-msgstr ""
+msgstr "introdueix una data almenys %(day)s en el passat"
 
 #: r2/controllers/errors.py:79
 #, python-format
 msgid "address problem: %(message)s"
-msgstr ""
+msgstr "problema amb l'adreça: %(message)s"
 
 #: r2/controllers/errors.py:80
 #, python-format
@@ -393,15 +392,15 @@ msgstr ""
 #: r2/controllers/errors.py:81
 #, python-format
 msgid "this is too long (max: %(max_length)s)"
-msgstr ""
+msgstr "massa llarg (màx: %(max_length)s)"
 
 #: r2/controllers/errors.py:82
 msgid "we need something here"
-msgstr ""
+msgstr "hi necessitem alguna cosa aquí"
 
 #: r2/controllers/errors.py:83
 msgid "we've never seen that code before"
-msgstr ""
+msgstr "no hem vist mai aquest codi"
 
 #: r2/controllers/errors.py:84
 msgid "that code has already been claimed -- perhaps by you?"
@@ -409,15 +408,15 @@ msgstr ""
 
 #: r2/controllers/errors.py:85
 msgid "that reddit doesn't allow text posts"
-msgstr ""
+msgstr "aquest reddit no permet publicacions de text"
 
 #: r2/controllers/errors.py:86
 msgid "that reddit only allows text posts"
-msgstr ""
+msgstr "aquest reddit només permet publicacions de text"
 
 #: r2/controllers/errors.py:87
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "això és història; massa tard per respondre-hi"
 
 #: r2/controllers/errors.py:88
 msgid "invalid css name"
@@ -433,15 +432,15 @@ msgstr ""
 
 #: r2/controllers/errors.py:91
 msgid "access denied by the user"
-msgstr ""
+msgstr "accés denegat per l'usuari"
 
 #: r2/controllers/errors.py:92
 msgid "please confirm the form"
-msgstr ""
+msgstr "si us plau, confirma el formulari"
 
 #: r2/controllers/errors.py:93
 msgid "cannot perform this action via the API"
-msgstr ""
+msgstr "no es pot dur a terme aquesta acció a través de l'API"
 
 #: r2/controllers/front.py:121
 msgid "self service help"
@@ -449,12 +448,12 @@ msgstr ""
 
 #: r2/controllers/front.py:301
 msgid "no comments (yet)"
-msgstr ""
+msgstr "sense comentaris (encara)"
 
 #: r2/controllers/front.py:303
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "tots els %d comentaris"
 
 #: r2/controllers/front.py:305
 #, python-format
@@ -464,12 +463,12 @@ msgstr ""
 #: r2/controllers/front.py:328
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "mostra'ls tots %d"
 
 #: r2/controllers/front.py:330
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "mostra'n &d"
 
 #: r2/controllers/front.py:346
 msgid "create a reddit"
@@ -477,7 +476,7 @@ msgstr "crea un reddit"
 
 #: r2/controllers/front.py:348 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "crea una comunitat"
 
 #: r2/controllers/front.py:401 r2/controllers/front.py:407
 #: r2/controllers/listingcontroller.py:621
@@ -487,11 +486,11 @@ msgstr "tots"
 
 #: r2/controllers/front.py:413
 msgid "filter by action"
-msgstr ""
+msgstr "filtra per acció"
 
 #: r2/controllers/front.py:415
 msgid "filter by moderator"
-msgstr ""
+msgstr "filtra per moderador"
 
 #: r2/controllers/front.py:579 r2/lib/menus.py:142
 msgid "awards"
@@ -503,7 +502,7 @@ msgstr "relacionats"
 
 #: r2/controllers/front.py:627
 msgid "other discussions"
-msgstr ""
+msgstr "altres discussions"
 
 #: r2/controllers/front.py:646 r2/controllers/front.py:690
 msgid "search results"
@@ -525,7 +524,7 @@ msgstr "verifica el teu correu"
 
 #: r2/controllers/front.py:916 r2/templates/loginformwide.html:51
 msgid "reset password"
-msgstr ""
+msgstr "reinicia la contrasenya"
 
 #: r2/controllers/front.py:1064 r2/controllers/post.py:161
 msgid "opt out"
@@ -537,7 +536,7 @@ msgstr "benvingut"
 
 #: r2/controllers/front.py:1094
 msgid "thanks"
-msgstr ""
+msgstr "gràcies"
 
 #: r2/controllers/front.py:1127 r2/controllers/front.py:1149
 #: r2/lib/menus.py:101 r2/templates/gold.html:84
@@ -546,7 +545,7 @@ msgstr ""
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "bon intent."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
@@ -579,20 +578,20 @@ msgstr "últims enviaments"
 
 #: r2/controllers/listingcontroller.py:429
 msgid "top scoring links"
-msgstr ""
+msgstr "enllaços més puntuats"
 
 #: r2/controllers/listingcontroller.py:431
 msgid "most controversial links"
-msgstr ""
+msgstr "enllaços més polèmics"
 
 #: r2/controllers/listingcontroller.py:438
 msgid "you're really bored now, eh?"
-msgstr "estàs avorrit, eh?"
+msgstr "t'avorreixes, eh?"
 
 #: r2/controllers/listingcontroller.py:502
 #, python-format
 msgid "overview for %(user)s"
-msgstr ""
+msgstr "resum per %(user)s"
 
 #: r2/controllers/listingcontroller.py:503
 #, python-format
@@ -607,12 +606,12 @@ msgstr "afegit per %(user)s"
 #: r2/controllers/listingcontroller.py:505
 #, python-format
 msgid "liked by %(user)s"
-msgstr ""
+msgstr "agradat per %(user)s"
 
 #: r2/controllers/listingcontroller.py:506
 #, python-format
 msgid "disliked by %(user)s"
-msgstr ""
+msgstr "desagradat per %(user)s"
 
 #: r2/controllers/listingcontroller.py:507
 #, python-format
@@ -628,15 +627,15 @@ msgstr "perfil de en %(user)s"
 #: r2/controllers/listingcontroller.py:631
 #: r2/templates/printablebuttons.html:332
 msgid "unread"
-msgstr ""
+msgstr "per llegir"
 
 #: r2/controllers/listingcontroller.py:624
 msgid "comment replies"
-msgstr ""
+msgstr "respostes als comentaris"
 
 #: r2/controllers/listingcontroller.py:625
 msgid "post replies"
-msgstr ""
+msgstr "respostes a les publicacions"
 
 #: r2/controllers/listingcontroller.py:638 r2/templates/redditheader.html:94
 msgid "messages"
@@ -648,7 +647,7 @@ msgstr "reddits"
 
 #: r2/controllers/listingcontroller.py:835
 msgid "reddits: "
-msgstr "reddits:"
+msgstr "reddits: "
 
 #: r2/controllers/listingcontroller.py:871
 msgid "comments"
@@ -656,19 +655,19 @@ msgstr "comentaris"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr ""
+msgstr "La meva identitat"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
-msgstr ""
+msgstr "Accedeix al meu nom d'usuari i la data d'alta."
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
-msgstr ""
+msgstr "major de 18?"
 
 #: r2/controllers/promotecontroller.py:48
 msgid "promoted by you"
-msgstr ""
+msgstr "promogut per tu"
 
 #: r2/controllers/promotecontroller.py:464
 msgid "failed to authenticate card.  sorry."
@@ -680,7 +679,7 @@ msgstr ""
 
 #: r2/controllers/reddit_base.py:879
 msgid "search failed"
-msgstr ""
+msgstr "la cerca ha fallat"
 
 #: r2/controllers/validator/validator.py:1502
 msgid "please provide a first name"
@@ -708,15 +707,15 @@ msgstr "necessitem el teu codi postal"
 
 #: r2/controllers/validator/validator.py:1514
 msgid "please pick a country"
-msgstr "seleccioneu un país"
+msgstr "selecciona un país"
 
 #: r2/controllers/validator/validator.py:1518
 msgid "Our ToS don't cover your country (yet). Sorry."
-msgstr ""
+msgstr "Els nostres termes de servei no cobreixen el teu país (encara). Ho sentim."
 
 #: r2/controllers/validator/validator.py:1537
 msgid "credit card numbers should be 13 to 16 digits"
-msgstr "els números de targetes de crèdit han de ser de 13 a 16 dígits"
+msgstr "els números de targetes de crèdit han de ser d'entre 13 i 16 dígits"
 
 #: r2/controllers/validator/validator.py:1540
 msgid "dates should be YYYY-MM"
@@ -724,31 +723,31 @@ msgstr "les dates han de ser del tipus ANY-MES"
 
 #: r2/controllers/validator/validator.py:1542
 msgid "card verification codes should be 3 or 4 digits"
-msgstr "els números de verificació han de ser de 3 a 4 digits"
+msgstr "els números de verificació han de ser d'entre 3 i 4 digits"
 
 #: r2/lib/cssfilter.py:306
 msgid "if you need backslashes, you're doing it wrong"
-msgstr ""
+msgstr "si necessites barra inversa, ho estàs fent malament"
 
 #: r2/lib/jsontemplates.py:302 r2/templates/usertext.html:55
 msgid "[removed]"
-msgstr ""
+msgstr "[eliminat]"
 
 #: r2/lib/menus.py:46
 msgid "what's hot"
-msgstr ""
+msgstr "candent"
 
 #: r2/lib/menus.py:47
 msgid "what's new"
-msgstr "que hi ha de nou?"
+msgstr "què hi ha de nou?"
 
 #: r2/lib/menus.py:48
 msgid "top scoring"
-msgstr ""
+msgstr "més puntuats"
 
 #: r2/lib/menus.py:49
 msgid "most controversial"
-msgstr ""
+msgstr "més polèmics"
 
 #: r2/lib/menus.py:51 r2/lib/menus.py:67
 msgid "recommended"
@@ -844,11 +843,11 @@ msgstr ""
 
 #: r2/lib/menus.py:84
 msgid "turn admin on"
-msgstr "desactiva administració"
+msgstr "activa administració"
 
 #: r2/lib/menus.py:85
 msgid "turn admin off"
-msgstr "activa administració"
+msgstr "desactiva administració"
 
 #: r2/lib/menus.py:86 r2/lib/pages/pages.py:559 r2/lib/pages/pages.py:574
 msgid "preferences"
@@ -856,7 +855,7 @@ msgstr "preferències"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "bloc"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:413
 msgid "logout"
@@ -864,15 +863,15 @@ msgstr "surt"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "contacta'ns"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr ""
+msgstr "extensió del firefox"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
-msgstr "butons"
+msgstr "botons"
 
 #: r2/lib/menus.py:96
 msgid "widget"
@@ -896,7 +895,7 @@ msgstr ""
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
-msgstr ""
+msgstr "subreddits"
 
 #: r2/lib/menus.py:105 r2/templates/promotelinkform.html:318
 msgid "options"
@@ -943,7 +942,7 @@ msgstr "detalls"
 #: r2/lib/menus.py:120
 #, python-format
 msgid "other discussions (%(num)s)"
-msgstr ""
+msgstr "altres discussions (%(num)s)"
 
 #: r2/lib/menus.py:121
 msgid "traffic stats"
@@ -951,7 +950,7 @@ msgstr ""
 
 #: r2/lib/menus.py:124
 msgid "home"
-msgstr ""
+msgstr "inici"
 
 #: r2/lib/menus.py:125 r2/lib/pages/pages.py:415
 msgid "about"
@@ -959,20 +958,20 @@ msgstr "sobre"
 
 #: r2/lib/menus.py:126
 msgid "edit subscriptions"
-msgstr ""
+msgstr "edita les subscripcions"
 
 #: r2/lib/menus.py:127 r2/lib/pages/pages.py:1045
 #: r2/templates/createsubreddit.html:39
 msgid "community settings"
-msgstr ""
+msgstr "preferències de la comunitat"
 
 #: r2/lib/menus.py:128
 msgid "edit moderators"
-msgstr ""
+msgstr "edita els moderadors"
 
 #: r2/lib/menus.py:129
 msgid "moderator mail"
-msgstr ""
+msgstr "correu del moderador"
 
 #: r2/lib/menus.py:130
 msgid "edit approved submitters"
@@ -988,7 +987,7 @@ msgstr ""
 
 #: r2/lib/menus.py:134
 msgid "moderation log"
-msgstr ""
+msgstr "registre de moderació"
 
 #: r2/lib/menus.py:136
 msgid "popular"
@@ -1004,27 +1003,27 @@ msgstr "els meus reddits"
 
 #: r2/lib/menus.py:140
 msgid "help translate"
-msgstr ""
+msgstr "ajuda en la traducció"
 
 #: r2/lib/menus.py:141 r2/templates/subredditstylesheet.html:88
 msgid "errors"
-msgstr ""
+msgstr "errors"
 
 #: r2/lib/menus.py:143
 msgid "ads"
-msgstr ""
+msgstr "anuncis"
 
 #: r2/lib/menus.py:144
 msgid "usage"
-msgstr ""
+msgstr "ús"
 
 #: r2/lib/menus.py:145
 msgid "promoted"
-msgstr ""
+msgstr "promogut"
 
 #: r2/lib/menus.py:146
 msgid "reporters"
-msgstr "reportadors  "
+msgstr "reportadors"
 
 #: r2/lib/menus.py:147
 msgid "reported links"
@@ -1041,7 +1040,7 @@ msgstr "informació"
 #: r2/lib/menus.py:150 r2/templates/printablebuttons.html:164
 #: r2/templates/sharelink.html:94
 msgid "share"
-msgstr ""
+msgstr "comparteix"
 
 #: r2/lib/menus.py:152
 msgid "overview"
@@ -1105,11 +1104,11 @@ msgstr ""
 
 #: r2/lib/menus.py:169
 msgid "pending"
-msgstr ""
+msgstr "pendent"
 
 #: r2/lib/menus.py:170
 msgid "rejected"
-msgstr ""
+msgstr "rebutjat"
 
 #: r2/lib/menus.py:172
 msgid "whitelist"
@@ -1117,15 +1116,15 @@ msgstr ""
 
 #: r2/lib/menus.py:420
 msgid "sorted by"
-msgstr ""
+msgstr "ordenat per"
 
 #: r2/lib/menus.py:486
 msgid "kind"
-msgstr ""
+msgstr "tipus"
 
 #: r2/lib/menus.py:501
 msgid "links from"
-msgstr "enllaços des de "
+msgstr "enllaços des de"
 
 #: r2/lib/promote.py:236 r2/lib/strings.py:250
 msgid "day"
@@ -1376,18 +1375,19 @@ msgstr "s'ha eliminat el teu compte, però no et guardem rencor."
 
 #: r2/lib/strings.py:73 r2/templates/frametoolbar.html:148
 msgid "you'll need to login or register to do that"
-msgstr ""
+msgstr "per fer això has d'iniciar sessió o registrar-te"
 
 #: r2/lib/strings.py:74
 msgid "(don't worry, it only takes a few seconds)"
-msgstr ""
+msgstr "(no pateixis, només són uns segons)"
 
 #: r2/lib/strings.py:76
 #, python-format
 msgid ""
 "Log in or register to connect your reddit account with [%(app_name)s]"
 "(%(app_about_url)s)."
-msgstr ""
+msgstr "Inicia sessió o registra't per connectar el teu compte de reddit amb "
+"[%(app_name)s] (%(app_about_url)s)."
 
 #: r2/lib/strings.py:78
 #, python-format
@@ -1407,24 +1407,25 @@ msgstr ""
 
 #: r2/lib/strings.py:82
 msgid "your reddit has been created"
-msgstr ""
+msgstr "s'ha creat el teu reddit"
 
 #: r2/lib/strings.py:84
 msgid ""
 "we haven't yet decided whether these things are spam, so you have a chance "
 "to change your vote:"
-msgstr ""
+msgstr "encara no hem decidit si això és spam, encara tens temps de canviar "
+"el teu vot:"
 
 #: r2/lib/strings.py:85
 msgid ""
 "it's too late to change your vote on these things (the verdict has been "
 "issued):"
-msgstr ""
+msgstr "és massa tard per canviar el teu vot (el veredicte ha estat emès)"
 
 #: r2/lib/strings.py:86
 #, python-format
 msgid "visit [%(link)s](%(link)s) for more information"
-msgstr ""
+msgstr "visita [%(link)s](%(link)s) per a més informació"
 
 #: r2/lib/strings.py:90
 #, python-format
@@ -1470,7 +1471,7 @@ msgstr "no estàs subscrit a cap reddit."
 
 #: r2/lib/strings.py:106
 msgid "below are the reddits you have subscribed to"
-msgstr "abaix tens els reddits als quals estàs subscrit"
+msgstr "a sota tens els reddits als quals estàs subscrit"
 
 #: r2/lib/strings.py:107
 msgid "below are the reddits that you are an approved submitter on."
@@ -1478,25 +1479,27 @@ msgstr ""
 
 #: r2/lib/strings.py:108
 msgid "below are the reddits that you have moderator access to."
-msgstr "abaix tens els reddits als quals tens accés de moderador."
+msgstr "a sota tens els reddits als quals tens accés com a moderador."
 
 #: r2/lib/strings.py:111
 msgid ""
 "click the `subscribe` or `unsubscribe` buttons to choose which reddits "
 "appear on your front page."
-msgstr ""
+msgstr "clica els botons de 'subscriu-te' o 'cancel·la la subscripció' per triar "
+"els reddits que apareixeran a la teva pàgina d'inici."
 
 #: r2/lib/strings.py:113
 #, python-format
 msgid ""
 "you're searching within the [%(reddit_name)s](%(reddit_link)s) reddit. you "
 "can also search within [all reddits](%(all_reddits_link)s)"
-msgstr ""
+msgstr "estàs cercant dins del reddit [%(reddit_name)s](%(reddit_link)s). també"
+"pots buscar dins de [all reddits](%(all_reddits_link)s)"
 
 #: r2/lib/strings.py:117
 #, python-format
 msgid "\"%(brokenurl)s\" is not a valid URL"
-msgstr ""
+msgstr "\"%(brokenurl)s\" no és una URL vàlida"
 
 #: r2/lib/strings.py:118
 #, python-format
@@ -1511,12 +1514,12 @@ msgstr ""
 #: r2/lib/strings.py:120
 #, python-format
 msgid "too big. keep it under %(max_size)dkb"
-msgstr ""
+msgstr "massa gran. ha de ser inferior a %(max_size)dkb"
 
 #: r2/lib/strings.py:121
 #, python-format
 msgid "syntax error: \"%(syntaxerror)s\""
-msgstr ""
+msgstr "error de sintaxi: \"%(syntaxerror)s\""
 
 #: r2/lib/strings.py:122
 msgid "@imports are not allowed"
@@ -1564,6 +1567,12 @@ msgid ""
 "ban was a mistake, please submit a link to our [request a reddit listing]"
 "(%(link)s) and be sure to include the **exact name of the reddit**."
 msgstr ""
+"**aquest reddit ha estat prohibit**\n"
+"\n"
+"segurament ha estat fet automàticament pel programa de filtració de spam. "
+"encara n'està aprenent i és possible que tingui alguns errors. si creus que "
+"la prohibició ha estat una equivocació, tramet un enllaç a [demana llistar "
+"un reddit] (%(link)s) i assegura't d'incloure-hi el **nom exacte del reddit**."
 
 #: r2/lib/strings.py:132
 #, python-format
@@ -1572,7 +1581,10 @@ msgid ""
 "The full discussion is available [here](%(fd_link)s); you can also get there "
 "by clicking the link's title (in the middle of the toolbar, to the right of "
 "the comments button)."
-msgstr ""
+msgstr "A continuació hi ha una mostra del que usuaris de Reddit han dit sobre "
+"aquesta pàgina. La discussió sencera és disponible [aquí](%(fd_link)s); també "
+"hi pots arribar si cliques el títol de l'enllaç (al mig de la barra d'eines, "
+"a la dreta del botó de comentaris)."
 
 #: r2/lib/strings.py:134
 msgid ""
@@ -1585,16 +1597,18 @@ msgid ""
 "You are submitting a text-based post. Speak your mind. A title is required, "
 "but expanding further in the text field is not. Beginning your title with "
 "\"vote up if\" is violation of intergalactic law."
-msgstr ""
+msgstr "Estàs trametent una publicació de text. Digues el que penses. Cal un títol, "
+"però estendre's en el camp de text no. Començar el títol amb \"vote up if\" és "
+"una transgressió de la llei intergalàctica."
 
 #: r2/lib/strings.py:136
 msgid ""
 "You should consider using [reddit's mobile interface](http://i.reddit.com/)."
-msgstr ""
+msgstr "Pots fer servir [interfície per a mòbils de reddit](http://i.reddit.com/)."
 
 #: r2/lib/strings.py:137
 msgid "we're going to need to verify your email address for you to proceed."
-msgstr ""
+msgstr "haurem de verificar la teva adreça de correu electrònic per a que puguis procedir."
 
 #: r2/lib/strings.py:138
 msgid ""
@@ -1603,33 +1617,36 @@ msgstr ""
 
 #: r2/lib/strings.py:139
 msgid "your email address has been verfied"
-msgstr ""
+msgstr "la teva adreça de correu electrònic ha estat verificada."
 
 #: r2/lib/strings.py:140
 msgid "Verification failed.  Please try that again"
-msgstr ""
+msgstr "La verificació ha fallat. Si us plau, torna-ho a intentar"
 
 #: r2/lib/strings.py:141
 msgid ""
 "Our search machines are under too much load to handle your request right "
 "now. :( Sorry for the inconvenience. Try again in a little bit -- but please "
 "don't mash reload; that only makes the problem worse."
-msgstr ""
+msgstr "Les nostres màquines de cerca estan sobrecarregades i ara mateix no "
+"poden tramitar la teva petició. :( Disculpa les molèsties. Torna-ho a intentar "
+"d'aquí una estona -- però no forcis més recàrregues, això només empitjora les coses."
 
 #: r2/lib/strings.py:142
 #, python-format
 msgid ""
 "I couldn't understand your query, so I simplified it and searched for "
 "\"%(clean_query)s\" instead."
-msgstr ""
+msgstr "No he entès la consulta, així que l'he simplificat i he cercat "
+"\"%(clean_query)s\"."
 
 #: r2/lib/strings.py:143
 msgid "I couldn't understand your search query. Please try again."
-msgstr ""
+msgstr "No he entès la teva pregunta. Torna-ho a intentar."
 
 #: r2/lib/strings.py:144
 msgid "You've submitted too many links recently. Please try again in an hour."
-msgstr ""
+msgstr "Has tramès massa enllaços últimament. Torna-ho a intentar d'aquí una hora."
 
 #: r2/lib/strings.py:145
 #, python-format
@@ -1637,7 +1654,9 @@ msgid ""
 "You've submitted several links recently that haven't been doing very well. "
 "You'll have to wait a while before you can submit again, or [write to the "
 "moderators of this reddit](%(link)s) and ask for an exemption."
-msgstr ""
+msgstr "Últimament has tramès diversos enllaços que no han anat gaire bé. "
+"Hauràs d'esperar un temps abans de tornar a poder enviar continguts, or bé pots "
+"[escriure als moderadors d'aquest reddit](%(link)s) i demanar una exempció."
 
 #: r2/lib/strings.py:146
 #, python-format
@@ -1646,13 +1665,18 @@ msgid ""
 "submitting privileges will be severely limited. Please try again in an hour "
 "or verify your email address. If you'd like an exemption from this rule, "
 "please [write to the moderators of this reddit](%(link2)s)."
-msgstr ""
+msgstr "No has [verificat la teva adreça de correu electrònic](%(link1)s); fins "
+"llavors, els teus privilegis d'enviar continguts seran força limitats. Torna-ho "
+"a intentar d'aquí una hora o bé verifica la teva adreça. Si vols una exempció "
+"d'aquesta norma, [escriu als moderadors d'aquest reddit](%(link2)s)."
 
 #: r2/lib/strings.py:147
 msgid ""
 "reddit is in \"emergency read-only mode\" right now. :( you won't be able to "
 "log in. we're sorry, and are working frantically to fix the problem."
-msgstr ""
+msgstr "reddit està en \"mode només de lectura d'emergència\" ara mateix. :( no "
+"pots iniciar sessió. ens sap greu i estem treballant frenèticament per "
+"arreglar-ho."
 
 #: r2/lib/strings.py:148
 msgid "this page is temporarily in read-only mode due to heavy traffic."
@@ -1661,26 +1685,29 @@ msgstr ""
 #: r2/lib/strings.py:149
 #, python-format
 msgid "Please grab a drink and join us in [the lounge](%(link)s)."
-msgstr ""
+msgstr "Agafa alguna cosa per beure i vine amb nosaltres [al saló](%(link)s)."
 
 #: r2/lib/strings.py:150
 msgid ""
 "You sent us a postcard! (Or something similar.) When we run out of room on "
 "our refrigerator, we might one day auction off the stuff that people sent "
 "in. Is it okay if we include your thing?"
-msgstr ""
+msgstr "Ens has enviat una postal! (O alguna cosa similar.) Quan ens quedem sense "
+"espai a la nevera potser subastarem tot el que la gent ens ha enviat. Et sembla "
+"bé que hi incloguem això teu?"
 
 #: r2/lib/strings.py:151
 #, python-format
 msgid ""
 "Sorry, the maximum number of comments is %(max)d. (However, if you subscribe "
 "to reddit gold, it goes up to %(goldmax)d.)"
-msgstr ""
+msgstr "Ho sentim, el nombre màxim de comentaris és %(max)d. (Tot i així, si et "
+"subscrius a reddit gold, puja fins a %(goldmax)d)."
 
 #: r2/lib/strings.py:152
 #, python-format
 msgid "Sorry, the maximum number of comments is %d."
-msgstr ""
+msgstr "Ho sentim, el nombre màxim de comentaris és %d."
 
 #: r2/lib/strings.py:153
 #, python-format
@@ -1741,12 +1768,15 @@ msgid ""
 "unusual activity, you should change your password immediately. Location "
 "information is guessed from your computer's IP address and may be wildly "
 "wrong, especially for visits from mobile devices."
-msgstr ""
+msgstr "Aquesta pàgina mostra l'activitat recent del teu compte. Si hi trobes "
+"activitat inusual, canvia la teva contrasenya immediatament. La informació "
+"de localització és estimada a partir de l'adreça IP del teu ordinador i pot "
+"estar equivocada, especialment les de visites des de dispositius mòbils."
 
 #: r2/lib/strings.py:162
 #, python-format
 msgid "You are currently accessing reddit from this IP address: %(address)s."
-msgstr ""
+msgstr "Estàs accedint a reddit des d'aquesta adreça IP: %(address)s."
 
 #: r2/lib/strings.py:229 r2/lib/strings.py:234 r2/lib/template_helpers.py:232
 #: r2/templates/subredditstylesheet.html:280
@@ -1870,7 +1900,7 @@ msgstr ""
 
 #: r2/lib/template_helpers.py:467
 msgid "reddit admin, speaking officially"
-msgstr ""
+msgstr "administrador de reddit, oficialment parlant"
 
 #: r2/lib/pages/pages.py:74
 #, python-format
@@ -1879,19 +1909,19 @@ msgstr "%d/%m/%Y"
 
 #: r2/lib/pages/pages.py:238
 msgid "these reddits"
-msgstr ""
+msgstr "aquests reddits"
 
 #: r2/lib/pages/pages.py:250
 msgid "Submit a link"
-msgstr ""
+msgstr "Envia un enllaç"
 
 #: r2/lib/pages/pages.py:269
 msgid "Create your own community"
-msgstr ""
+msgstr "Crea la teva comunitat"
 
 #: r2/lib/pages/pages.py:284
 msgid "moderators"
-msgstr ""
+msgstr "moderadors"
 
 #: r2/lib/pages/pages.py:291
 msgid "admin box"
@@ -1899,11 +1929,11 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:299
 msgid "Recently viewed links"
-msgstr ""
+msgstr "Enllaços vistos recentment"
 
 #: r2/lib/pages/pages.py:421
 msgid "FAQ"
-msgstr ""
+msgstr "PMF"
 
 #: r2/lib/pages/pages.py:422
 msgid "reddiquette"
@@ -1911,11 +1941,11 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:432
 msgid "chrome extension"
-msgstr ""
+msgstr "extensió de chrome"
 
 #: r2/lib/pages/pages.py:436
 msgid "tools"
-msgstr ""
+msgstr "eines"
 
 #: r2/lib/pages/pages.py:443
 msgid "redditgifts"
@@ -1927,11 +1957,11 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:445
 msgid "radio reddit"
-msgstr ""
+msgstr "ràdio reddit"
 
 #: r2/lib/pages/pages.py:447
 msgid "<3"
-msgstr ""
+msgstr "<3"
 
 #: r2/lib/pages/pages.py:631
 #, python-format
@@ -1940,19 +1970,20 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:696 r2/templates/redditheader.html:72
 msgid "login or register"
-msgstr ""
+msgstr "inicia sessió o registra't"
 
 #: r2/lib/pages/pages.py:739
 msgid "request for permission"
-msgstr ""
+msgstr "demana permís"
 
 #: r2/lib/pages/pages.py:767
 msgid "bummer"
-msgstr ""
+msgstr "vaja"
 
 #: r2/lib/pages/pages.py:779
 msgid "this page is no longer available due to a copyright claim."
-msgstr ""
+msgstr "aquesta pàgina ja no està disponible degut a una reclamació de "
+"drets d'autor."
 
 #: r2/lib/pages/pages.py:1046
 #, python-format
@@ -1961,7 +1992,7 @@ msgstr "sobre %(site)s"
 
 #: r2/lib/pages/pages.py:1072
 msgid "search reddits"
-msgstr ""
+msgstr "cerca reddits"
 
 #: r2/lib/pages/pages.py:1103
 #, python-format
@@ -1971,7 +2002,7 @@ msgstr ""
 #: r2/lib/pages/pages.py:1164 r2/templates/createsubreddit.html:196
 #: r2/templates/spotlightlisting.html:54
 msgid "what's this?"
-msgstr "què es aixo?"
+msgstr "què és això?"
 
 #: r2/lib/pages/pages.py:1165
 msgid "trophy case"
@@ -1979,11 +2010,11 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:1213
 msgid "an unknown amount"
-msgstr ""
+msgstr "una quantitat desconeguda"
 
 #: r2/lib/pages/pages.py:1221
 msgid "less than a day"
-msgstr ""
+msgstr "menys d'un dia"
 
 #: r2/lib/pages/pages.py:1230
 #, python-format
@@ -2000,7 +2031,7 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:1271
 msgid "page not found"
-msgstr ""
+msgstr "pàgina no trobada"
 
 #: r2/lib/pages/pages.py:1282
 msgid "you aren't allowed to do that."
@@ -2014,7 +2045,7 @@ msgstr ""
 #: r2/lib/pages/pages.py:1412 r2/lib/pages/pages.py:1421
 #, python-format
 msgid "%s visible"
-msgstr ""
+msgstr "%s visible"
 
 #: r2/lib/pages/pages.py:1419
 #, python-format
@@ -2032,7 +2063,7 @@ msgstr "cerca anterior"
 #: r2/lib/pages/pages.py:1695
 #, python-format
 msgid "%(site_title)s via %(domain)s"
-msgstr ""
+msgstr "%(site_title)s via %(domain)s"
 
 #: r2/lib/pages/pages.py:2441
 msgid "grant flair"
@@ -2044,15 +2075,15 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:2642
 msgid "user"
-msgstr ""
+msgstr "usuari"
 
 #: r2/lib/pages/pages.py:2642
 msgid "note"
-msgstr ""
+msgstr "nota"
 
 #: r2/lib/pages/pages.py:2642
 msgid "friendship"
-msgstr ""
+msgstr "amistat"
 
 #: r2/lib/pages/pages.py:2648
 msgid "add a friend"
@@ -2064,7 +2095,7 @@ msgstr "els teus amics"
 
 #: r2/lib/pages/pages.py:2680
 msgid "blocked users"
-msgstr ""
+msgstr "usuaris bloquejats"
 
 #: r2/lib/pages/pages.py:2696
 msgid "add approved submitter"
@@ -2082,7 +2113,7 @@ msgstr "afegeix moderador"
 #: r2/lib/pages/pages.py:2720
 #, python-format
 msgid "moderators of %(reddit)s"
-msgstr ""
+msgstr "moderadors de %(reddit)s"
 
 #: r2/lib/pages/pages.py:2743
 msgid "banned users"
@@ -2098,11 +2129,11 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:3716 r2/templates/accountactivitybox.html:24
 msgid "account activity"
-msgstr ""
+msgstr "activitat del compte"
 
 #: r2/models/account.py:184
 msgid "ancient history"
-msgstr ""
+msgstr "història antiga"
 
 #: r2/models/account.py:185
 msgid "really obscure karma from before it was cool to track per-subreddit"
@@ -2111,7 +2142,7 @@ msgstr ""
 #: r2/models/builder.py:103
 #, python-format
 msgid "moderator of /r/%(reddit)s, speaking officially"
-msgstr ""
+msgstr "moderador de /r/%(reddit)s, oficialment parlant"
 
 #: r2/models/builder.py:169
 msgid "label_template"
@@ -2120,19 +2151,19 @@ msgstr ""
 #: r2/models/link.py:508
 #, python-format
 msgid "approved by %s"
-msgstr ""
+msgstr "aprovat per %s"
 
 #: r2/models/link.py:510
 msgid "approved by a moderator"
-msgstr ""
+msgstr "aprovat per un moderador"
 
 #: r2/models/link.py:785
 msgid "comment score below threshold"
-msgstr "comentari per sota el "
+msgstr "comentari per sota el llindar"
 
 #: r2/models/link.py:790
 msgid "blocked user"
-msgstr ""
+msgstr "usuari bloquejat"
 
 #: r2/models/link.py:1105
 msgid "comment reply"
@@ -2144,26 +2175,26 @@ msgstr ""
 
 #: r2/models/link.py:1127
 msgid "[message from blocked user]"
-msgstr ""
+msgstr "[missatge d'usuari bloquejat]"
 
 #: r2/models/link.py:1128
 msgid "[unblock user to see this message]"
-msgstr ""
+msgstr "[desbloqueja l'usuari per veure aquest missatge]"
 
 #: r2/models/mail_queue.py:308
 #, python-format
 msgid "[reddit] %(user)s has shared a link with you"
-msgstr ""
+msgstr "[reddit] %(user)s ha compartit un enllaç amb tu"
 
 #: r2/models/mail_queue.py:309
 #, python-format
 msgid "[feedback] feedback from '%(user)s'"
-msgstr ""
+msgstr "[opinió] opinió de '%(user)s'"
 
 #: r2/models/mail_queue.py:310
 #, python-format
 msgid "[ad_inq] feedback from '%(user)s'"
-msgstr ""
+msgstr "[ad_inq] opinió de '%(user)s'"
 
 #: r2/models/mail_queue.py:311
 msgid "[reddit] email removal notice"
@@ -2216,7 +2247,7 @@ msgstr ""
 
 #: r2/models/mail_queue.py:323
 msgid "[reddit] hey, nerd!"
-msgstr ""
+msgstr "[reddit] ei, friki!"
 
 #: r2/models/mail_queue.py:324
 msgid "[reddit] reddit gold activation link"
@@ -2224,31 +2255,31 @@ msgstr ""
 
 #: r2/models/modaction.py:31
 msgid "ban user"
-msgstr ""
+msgstr "expulsa l'usuari"
 
 #: r2/models/modaction.py:32
 msgid "unban user"
-msgstr ""
+msgstr "readmet l'usuari"
 
 #: r2/models/modaction.py:33
 msgid "remove post"
-msgstr ""
+msgstr "treu la publicació"
 
 #: r2/models/modaction.py:34
 msgid "approve post"
-msgstr ""
+msgstr "aprova la publicació"
 
 #: r2/models/modaction.py:35
 msgid "remove comment"
-msgstr ""
+msgstr "treu el comentari"
 
 #: r2/models/modaction.py:36
 msgid "approve comment"
-msgstr ""
+msgstr "aprova el comentari"
 
 #: r2/models/modaction.py:38
 msgid "remove moderator"
-msgstr ""
+msgstr "treu el moderador"
 
 #: r2/models/modaction.py:39
 msgid "add contributor"
@@ -2256,40 +2287,40 @@ msgstr "afegeix un contribuïdor"
 
 #: r2/models/modaction.py:40
 msgid "remove contributor"
-msgstr ""
+msgstr "treu el contribuïdor"
 
 #: r2/models/modaction.py:41
 msgid "edit settings"
-msgstr ""
+msgstr "edita les preferències"
 
 #: r2/models/modaction.py:44 r2/templates/subredditinfobar.html:90
 #: r2/templates/subscriptionbox.html:57
 msgid "banned"
-msgstr "expulsats"
+msgstr "expulsat"
 
 #: r2/models/modaction.py:45
 msgid "unbanned"
-msgstr "readmés"
+msgstr "readmès"
 
 #: r2/models/modaction.py:46
 msgid "removed post"
-msgstr ""
+msgstr "publicació esborrada"
 
 #: r2/models/modaction.py:47
 msgid "approved post"
-msgstr ""
+msgstr "publicació aprovada"
 
 #: r2/models/modaction.py:48
 msgid "removed comment"
-msgstr ""
+msgstr "comentari esborrat"
 
 #: r2/models/modaction.py:49
 msgid "approved comment"
-msgstr ""
+msgstr "comentari aprovat"
 
 #: r2/models/modaction.py:50
 msgid "added moderator"
-msgstr ""
+msgstr "moderador afegit"
 
 #: r2/models/modaction.py:51
 msgid "removed moderator"
@@ -2305,7 +2336,7 @@ msgstr ""
 
 #: r2/models/modaction.py:54
 msgid "edited settings"
-msgstr ""
+msgstr "preferències editades"
 
 #: r2/models/modaction.py:55
 msgid "edited user flair"
@@ -2318,23 +2349,23 @@ msgstr ""
 #: r2/models/modaction.py:60 r2/templates/createsubreddit.html:69
 #: r2/templates/newlink.html:61 r2/templates/promotelinkform.html:258
 msgid "title"
-msgstr ""
+msgstr "títol"
 
 #: r2/models/modaction.py:61 r2/templates/createsubreddit.html:81
 msgid "description"
-msgstr ""
+msgstr "descripció"
 
 #: r2/models/modaction.py:62 r2/templates/createsubreddit.html:90
 msgid "language"
-msgstr ""
+msgstr "llengua"
 
 #: r2/models/modaction.py:63 r2/templates/createsubreddit.html:101
 msgid "type"
-msgstr ""
+msgstr "tipus"
 
 #: r2/models/modaction.py:64
 msgid "link type"
-msgstr ""
+msgstr "tipus d'enllaç"
 
 #: r2/models/modaction.py:65
 msgid "toggle viewers must be over 18"
@@ -2350,7 +2381,7 @@ msgstr ""
 
 #: r2/models/modaction.py:68 r2/templates/createsubreddit.html:170
 msgid "domain"
-msgstr ""
+msgstr "domini"
 
 #: r2/models/modaction.py:69
 msgid "toggle show sidebar from cname"
@@ -2362,27 +2393,27 @@ msgstr ""
 
 #: r2/models/modaction.py:71
 msgid "header title"
-msgstr ""
+msgstr "títol de la capçalera"
 
 #: r2/models/modaction.py:72 r2/templates/subredditstylesheet.html:42
 msgid "stylesheet"
-msgstr ""
+msgstr "full d'estil"
 
 #: r2/models/modaction.py:73
 msgid "delete header image"
-msgstr ""
+msgstr "esborra la imatge de la capçalera"
 
 #: r2/models/modaction.py:74
 msgid "delete image"
-msgstr ""
+msgstr "esborra la imatge"
 
 #: r2/models/modaction.py:75 r2/templates/createsubreddit.html:223
 msgid "upload header image"
-msgstr ""
+msgstr "puja una imatge per la capçalera"
 
 #: r2/models/modaction.py:76
 msgid "upload image"
-msgstr ""
+msgstr "puja una imatge"
 
 #: r2/models/modaction.py:78
 msgid "add/edit flair"
@@ -2431,7 +2462,7 @@ msgstr ""
 
 #: r2/models/subreddit.py:952
 msgid "on reddit.com"
-msgstr "en reddit.com"
+msgstr "a reddit.com"
 
 #: r2/templates/base.html:51
 msgid ""
@@ -2442,7 +2473,7 @@ msgstr ""
 #: r2/templates/base.htmllite:88
 #, python-format
 msgid "links from %(site)s"
-msgstr ""
+msgstr "enllaços de %(site)s"
 
 #: r2/templates/bookmarklets.html:32
 #, python-format
@@ -2453,7 +2484,9 @@ msgstr "instal·la el joc de bookmarklets de %(site)s"
 msgid ""
 "once added to your bookmark bar, you can click these buttons from any site "
 "to get quick access to reddit functionality."
-msgstr ""
+msgstr "un cop afegits a la teva barra de les adreces d'interès, podràs clicar "
+"aquests botons des de qualsevol lloc per accedir ràpidament a la "
+"funcionalitat de reddit."
 
 #: r2/templates/bookmarklets.html:35
 msgid "in Firefox"
@@ -2465,7 +2498,7 @@ msgstr "clica i arrossega"
 
 #: r2/templates/bookmarklets.html:43 r2/templates/bookmarklets.html:72
 msgid "to your bookmark bar."
-msgstr ""
+msgstr "a la teva barra de les adreces d'interès."
 
 #: r2/templates/bookmarklets.html:51
 msgid "in Internet Explorer"
@@ -2487,7 +2520,7 @@ msgstr "amb Safari"
 #, python-format
 msgid "voila! now you have all the functionality of %(site)s in your toolbar."
 msgstr ""
-"i llest! ara tens tota la funcionalitat de %(site)s a la teva barra d'eines"
+"i llest! ara tens tota la funcionalitat de %(site)s a la teva barra d'eines."
 
 #: r2/templates/buttondemopanel.html:29
 #, python-format
@@ -2503,7 +2536,7 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:34
 msgid "commonly used buttons"
-msgstr ""
+msgstr "botons usats habitualment"
 
 #: r2/templates/buttondemopanel.html:35
 msgid ""
@@ -2513,15 +2546,15 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:46
 msgid "buttons with points"
-msgstr ""
+msgstr "botons amb punts"
 
 #: r2/templates/buttondemopanel.html:52
 msgid "customizing the look of your buttons"
-msgstr ""
+msgstr "personalitza l'aparença dels teus botons"
 
 #: r2/templates/buttondemopanel.html:53
 msgid "the buttons with points have three additional options."
-msgstr ""
+msgstr "els botons amb punts tenen tres opcions adicionals."
 
 #: r2/templates/buttondemopanel.html:56
 msgid "no styles will be added, so you can style it yourself"
@@ -2529,32 +2562,32 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:58
 msgid "specify a url to use instead of the current url"
-msgstr ""
+msgstr "especifica una url a fer servir enlloc de l'actual"
 
 #: r2/templates/buttondemopanel.html:60
 msgid "opens links in a new window"
-msgstr ""
+msgstr "obre els enllaços en una finestra nova"
 
 #: r2/templates/buttondemopanel.html:62 r2/templates/buttondemopanel.html:114
 #: r2/templates/upgradebuttons.html:80
 msgid "Example:"
-msgstr ""
+msgstr "Exemple:"
 
 #: r2/templates/buttondemopanel.html:68 r2/templates/upgradebuttons.html:34
 msgid "simple interactive button"
-msgstr ""
+msgstr "botó interactiu simple"
 
 #: r2/templates/buttondemopanel.html:69 r2/templates/upgradebuttons.html:35
 msgid "put this code on your page:"
-msgstr ""
+msgstr "posa aquest codi a la teva pàgina:"
 
 #: r2/templates/buttondemopanel.html:73 r2/templates/upgradebuttons.html:39
 msgid "and you'll get something like this:"
-msgstr ""
+msgstr "i tindràs una cosa així:"
 
 #: r2/templates/buttondemopanel.html:78 r2/templates/upgradebuttons.html:44
 msgid "more interactive buttons"
-msgstr ""
+msgstr "més botons interactius"
 
 #: r2/templates/buttondemopanel.html:85 r2/templates/upgradebuttons.html:51
 msgid "interactive button advanced settings"
@@ -2562,7 +2595,7 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:89 r2/templates/upgradebuttons.html:55
 msgid "specify a url"
-msgstr ""
+msgstr "especifica una url"
 
 #: r2/templates/buttondemopanel.html:90 r2/templates/upgradebuttons.html:56
 msgid ""
@@ -2575,74 +2608,74 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:98 r2/templates/upgradebuttons.html:64
 msgid "specify a title"
-msgstr ""
+msgstr "especifica un títol"
 
 #: r2/templates/buttondemopanel.html:102 r2/templates/prefoptions.html:109
 #: r2/templates/upgradebuttons.html:68
 msgid "open links in a new window"
-msgstr "obre els enllaços en una nova finestra"
+msgstr "obre els enllaços en una finestra nova"
 
 #: r2/templates/buttondemopanel.html:106 r2/templates/upgradebuttons.html:72
 msgid "specify the color"
-msgstr ""
+msgstr "especifica el color"
 
 #: r2/templates/buttondemopanel.html:110 r2/templates/upgradebuttons.html:76
 msgid "specify a border color"
-msgstr ""
+msgstr "especifica el color de la vora"
 
 #: r2/templates/buttondemopanel.html:115 r2/templates/upgradebuttons.html:81
 msgid "to make this button:"
-msgstr ""
+msgstr "per fer aquest botó:"
 
 #: r2/templates/buttondemopanel.html:117 r2/templates/upgradebuttons.html:83
 msgid "use this code:"
-msgstr ""
+msgstr "fes servir aquest codi:"
 
 #: r2/templates/buttondemopanel.html:127
 msgid "more badges and buttons"
-msgstr ""
+msgstr "més distintius i botons"
 
 #: r2/templates/buttondemopanel.html:158 r2/templates/upgradebuttons.html:108
 msgid "view code"
-msgstr ""
+msgstr "visualitza el codi"
 
 #: r2/templates/buttondemopanel.html:159 r2/templates/upgradebuttons.html:109
 msgid "hide code"
-msgstr ""
+msgstr "amaga el codi"
 
 #: r2/templates/buttontypes.html:189
 msgid "quite controversial"
-msgstr ""
+msgstr "bastant polèmic"
 
 #: r2/templates/buttontypes.html:193
 msgid "uncontroversial"
-msgstr ""
+msgstr "gens polèmic"
 
 #: r2/templates/buttontypes.html:195
 msgid "quite uncontroversial"
-msgstr ""
+msgstr "poc polèmic"
 
 #: r2/templates/buttontypes.html:212
 msgid "Vote on this article"
-msgstr ""
+msgstr "Vota aquest article"
 
 #: r2/templates/buttontypes.html:217
 #, python-format
 msgid "Discuss at the %(name)s reddit"
-msgstr ""
+msgstr "Parla'n al reddit %(name)s"
 
 #: r2/templates/buttontypes.html:219
 #, python-format
 msgid "Submit to the %(name)s reddit"
-msgstr ""
+msgstr "Envia-ho al reddit %(name)s"
 
 #: r2/templates/captcha.html:49
 msgid "(sorry)"
-msgstr ""
+msgstr "(ho sentim)"
 
 #: r2/templates/captcha.html:49
 msgid "are you human?"
-msgstr ""
+msgstr "ets una persona humana?"
 
 #: r2/templates/captcha.html:75
 msgid "human?"
@@ -2650,28 +2683,28 @@ msgstr "humà?"
 
 #: r2/templates/clickgadget.html:30
 msgid "clear"
-msgstr ""
+msgstr "neteja"
 
 #: r2/templates/comment.html:61
 msgid "in"
-msgstr ""
+msgstr "a"
 
 #: r2/templates/comment.html:86 r2/templates/message.html:50
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: r2/templates/comment.html:86
 msgid "&ndash;"
-msgstr ""
+msgstr "-"
 
 #: r2/templates/comment.html:92
 msgid "deleted comment from"
-msgstr ""
+msgstr "comentari esborrat de"
 
 #: r2/templates/comment.html:98 r2/templates/comment.htmllite:46
 #: r2/templates/comment.xml:31 r2/templates/comment.xml:32
 msgid "[deleted]"
-msgstr ""
+msgstr "[esborrat]"
 
 #: r2/templates/comment.html:107 r2/templates/comment.htmllite:46
 #: r2/templates/commentvisitsbox.html:38 r2/templates/useriphistory.html:49
@@ -2686,21 +2719,22 @@ msgstr[1] "fills"
 
 #: r2/templates/commentspanel.html:38
 msgid "This sidebar will automatically appear when there are comments."
-msgstr ""
+msgstr "Aquesta barra lateral apareixerà automàticament quan hi hagi comentaris."
 
 #: r2/templates/commentspanel.html:40
 msgid "This sidebar will not be shown automatically."
-msgstr ""
+msgstr "Aquesta barra lateral no es mostrarà automàticament."
 
 #: r2/templates/commentvisitsbox.html:25
 msgid ""
 "You've been here before. To highlight comments that were posted since one of "
 "your visits, select it below:"
-msgstr ""
+msgstr "Ja hi has estat aquí. Per destacar els comentaris que s'han fet des "
+"d'una de les teves visites, selecciona-ho a sota:"
 
 #: r2/templates/commentvisitsbox.html:48
 msgid "no highlighting"
-msgstr ""
+msgstr "sense destacat"
 
 #: r2/templates/createsubreddit.html:47
 msgid "that subreddit doesn't exist, but you can create it here."
@@ -2708,23 +2742,23 @@ msgstr "aquest subreddit no existeix, però pots crear-lo aquí."
 
 #: r2/templates/createsubreddit.html:55
 msgid "no spaces, e.g., slashdot"
-msgstr ""
+msgstr "sense espais, p. ex., puntbarra"
 
 #: r2/templates/createsubreddit.html:55
 msgid "name"
-msgstr ""
+msgstr "nom"
 
 #: r2/templates/createsubreddit.html:69
 msgid "e.g., slashdot: news for nerds, stuff that matters"
-msgstr ""
+msgstr "p. ex.: slashdot: news for nerds, stuff that matters"
 
 #: r2/templates/createsubreddit.html:81
 msgid "500 characters max.  Make them count."
-msgstr ""
+msgstr "màxim 500 caràcters. Aprofita'ls."
 
 #: r2/templates/createsubreddit.html:104
 msgid "public"
-msgstr ""
+msgstr "públic"
 
 #: r2/templates/createsubreddit.html:105
 msgid "anyone can view and submit"
@@ -2732,7 +2766,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:107
 msgid "restricted"
-msgstr ""
+msgstr "restringit"
 
 #: r2/templates/createsubreddit.html:108
 msgid "anyone can view, but only some are approved to submit links"
@@ -2748,7 +2782,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:116
 msgid "archived"
-msgstr ""
+msgstr "arxivat"
 
 #: r2/templates/createsubreddit.html:117
 msgid "anyone can view, but submissions are no longer accepted"
@@ -2756,27 +2790,27 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:124 r2/templates/prefoptions.html:243
 msgid "content options"
-msgstr ""
+msgstr "opcions de contingut"
 
 #: r2/templates/createsubreddit.html:127
 msgid "any"
-msgstr ""
+msgstr "qualsevol"
 
 #: r2/templates/createsubreddit.html:128
 msgid "any link type is allowed"
-msgstr ""
+msgstr "s'admet qualsevol tipus d'enllaç"
 
 #: r2/templates/createsubreddit.html:130
 msgid "links only"
-msgstr ""
+msgstr "només enllaços"
 
 #: r2/templates/createsubreddit.html:131
 msgid "only links to external sites are allowed"
-msgstr ""
+msgstr "només s'admeten enllaços a llocs web externs"
 
 #: r2/templates/createsubreddit.html:133
 msgid "text posts only"
-msgstr ""
+msgstr "publicacions només de text"
 
 #: r2/templates/createsubreddit.html:134
 msgid "only text/self posts are allowed"
@@ -2784,11 +2818,11 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:140
 msgid "other options"
-msgstr ""
+msgstr "altres opcions"
 
 #: r2/templates/createsubreddit.html:147
 msgid "viewers must be over eighteen years old"
-msgstr ""
+msgstr "els visitants han de ser majors de divuit anys"
 
 #: r2/templates/createsubreddit.html:155
 msgid "allow this reddit to be shown in the default set"
@@ -2819,23 +2853,23 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:207 r2/templates/promotelinkform.html:298
 msgid "look and feel"
-msgstr ""
+msgstr "aspecte"
 
 #: r2/templates/createsubreddit.html:210
 msgid "edit the stylesheet"
-msgstr ""
+msgstr "edita el full d'estil"
 
 #: r2/templates/createsubreddit.html:214
 msgid "leaves this page"
-msgstr ""
+msgstr "deixa la pàgina"
 
 #: r2/templates/createsubreddit.html:233
 msgid "restore default header"
-msgstr ""
+msgstr "restaura la capçalera per defecte"
 
 #: r2/templates/createsubreddit.html:251
 msgid "sponsorship"
-msgstr ""
+msgstr "patrocini"
 
 #: r2/templates/createsubreddit.html:263
 msgid "name this campaign (for traffic)"
@@ -2843,11 +2877,11 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:272
 msgid "enter link url here"
-msgstr ""
+msgstr "escriu l'url de l'enllaç aquí"
 
 #: r2/templates/createsubreddit.html:277
 msgid "upload sponsorship image"
-msgstr ""
+msgstr "puja una imatge del patrocini"
 
 #: r2/templates/createsubreddit.html:309 r2/templates/flairpane.html:64
 #: r2/templates/prefoptions.html:321 r2/templates/promotelinkform.html:396
@@ -2860,11 +2894,11 @@ msgstr ""
 
 #: r2/templates/feedback.html:46 r2/templates/sharelink.html:33
 msgid "your name"
-msgstr ""
+msgstr "el teu nom"
 
 #: r2/templates/feedback.html:53
 msgid "(only used to reply)"
-msgstr ""
+msgstr "(només per respondre't)"
 
 #: r2/templates/feedback.html:53 r2/templates/login.html:78
 #: r2/templates/prefupdate.html:72 r2/templates/register.html:78
@@ -2877,7 +2911,7 @@ msgstr "envia"
 
 #: r2/templates/feedbackblurb.html:67
 msgid "send reddit feedback"
-msgstr ""
+msgstr "envia una opinió"
 
 #: r2/templates/flairlist.html:26
 msgid "jump to user (or add):"
@@ -2885,15 +2919,15 @@ msgstr ""
 
 #: r2/templates/flairlist.html:31
 msgid "go"
-msgstr ""
+msgstr "vés"
 
 #: r2/templates/flairlist.html:35
 msgid "back to full list"
-msgstr ""
+msgstr "torna a la llista sencera"
 
 #: r2/templates/flairlist.html:38
 msgid "back to the beginning"
-msgstr ""
+msgstr "torna al començament"
 
 #: r2/templates/flairlist.html:46 r2/templates/flairtemplatelist.html:35
 msgid "flair text"
@@ -2942,7 +2976,7 @@ msgstr ""
 
 #: r2/templates/flairpane.html:55
 msgid "left"
-msgstr ""
+msgstr "esquerra"
 
 #: r2/templates/flairpane.html:56
 msgid "position flair to the left of the username"
@@ -2950,7 +2984,7 @@ msgstr ""
 
 #: r2/templates/flairpane.html:58
 msgid "right"
-msgstr ""
+msgstr "dreta"
 
 #: r2/templates/flairpane.html:59
 msgid "position flair to the right of the username"
@@ -2970,7 +3004,7 @@ msgstr ""
 
 #: r2/templates/flairtemplatelist.html:34
 msgid "user can edit?"
-msgstr ""
+msgstr "l'usuari pot editar?"
 
 #: r2/templates/flairtemplatelist.html:49
 msgid "clear all flair templates"
@@ -2978,15 +3012,15 @@ msgstr ""
 
 #: r2/templates/frametoolbar.html:66
 msgid "show url"
-msgstr ""
+msgstr "mostra l'url"
 
 #: r2/templates/frametoolbar.html:69
 msgid "hide url"
-msgstr ""
+msgstr "amaga l'url"
 
 #: r2/templates/frametoolbar.html:73
 msgid "load a random link"
-msgstr ""
+msgstr "carrega un enllaç a l'atzar"
 
 #: r2/templates/frametoolbar.html:80
 msgid "serendipity"
@@ -2998,11 +3032,11 @@ msgstr ""
 
 #: r2/templates/frametoolbar.html:92
 msgid "login / register"
-msgstr ""
+msgstr "inici de sessió / registra't"
 
 #: r2/templates/frametoolbar.html:100
 msgid "new mail"
-msgstr ""
+msgstr "correu nou"
 
 #: r2/templates/frametoolbar.html:113 r2/templates/frametoolbar.html:114
 msgid "visit this link without the toolbar"
@@ -3014,12 +3048,12 @@ msgstr ""
 
 #: r2/templates/frametoolbar.html:133
 msgid "click to submit this link to reddit"
-msgstr ""
+msgstr "clica per enviar aquest enllaç a reddit"
 
 #: r2/templates/frametoolbar.html:171
 #, python-format
 msgid "vote %(direction)s"
-msgstr ""
+msgstr "vota %(direction)s"
 
 #: r2/templates/frametoolbar.html:186
 msgid "like"
@@ -3031,11 +3065,11 @@ msgstr "no m'agrada"
 
 #: r2/templates/frametoolbar.html:195 r2/templates/printablebuttons.html:171
 msgid "unsave"
-msgstr "borra"
+msgstr ""
 
 #: r2/templates/frametoolbar.html:196 r2/templates/printablebuttons.html:172
 msgid "unsaved"
-msgstr "borrada"
+msgstr ""
 
 #: r2/templates/frametoolbar.html:205 r2/templates/printablebuttons.html:179
 msgid "unhide"
@@ -3072,11 +3106,11 @@ msgstr ""
 
 #: r2/templates/gold.html:103
 msgid "$3.99 / month"
-msgstr ""
+msgstr "3,99$/mes"
 
 #: r2/templates/gold.html:104
 msgid "$29.99 / year (which works out to just $2.50 / month!)"
-msgstr ""
+msgstr "29,99$/any (que són només 2,50$/mes!)"
 
 #: r2/templates/gold.html:106 r2/templates/subreddit.html:65
 msgid "subscribe"
@@ -3084,11 +3118,11 @@ msgstr ""
 
 #: r2/templates/gold.html:112
 msgid "How many months?"
-msgstr ""
+msgstr "Quants mesos?"
 
 #: r2/templates/gold.html:114 r2/templates/gold.html:175
 msgid "buy"
-msgstr ""
+msgstr "compra"
 
 #: r2/templates/gold.html:120
 msgid "How much gold do you wish to bestow?"
@@ -3137,15 +3171,15 @@ msgstr ""
 
 #: r2/templates/goldpayment.html:55
 msgid "Please select a payment method."
-msgstr ""
+msgstr "Selecciona un mètode de pagament."
 
 #: r2/templates/goldpayment.html:78
 msgid "Google Checkout"
-msgstr ""
+msgstr "Google Checkout"
 
 #: r2/templates/goldpayment.html:90
 msgid "PayPal"
-msgstr ""
+msgstr "Paypal"
 
 #: r2/templates/goldpayment.html:94
 msgid ""
@@ -3163,40 +3197,40 @@ msgstr ""
 #: r2/templates/link.html:90
 msgid ""
 "(no need to click for this info; just hover over the checkmark next time)"
-msgstr ""
+msgstr "(no cal que cliquis, passa per damunt de la marca de verificació el proper cop)"
 
 #: r2/templates/link.html:205
 #, python-format
 msgid "%(score)s submitted %(when)s ago"
-msgstr ""
+msgstr ""%(score)s enviat fa %(when)s"
 
 #: r2/templates/link.html:207
 #, python-format
 msgid "by %(author)s to %(reddit)s"
-msgstr ""
+msgstr "per %(author)s a %(reddit)s"
 
 #: r2/templates/link.html:209
 #, python-format
 msgid "by %(author)s"
-msgstr ""
+msgstr "per %(author)s"
 
 #: r2/templates/link.html:211
 #, python-format
 msgid "submitted %(when)s ago by %(author)s to %(reddit)s"
-msgstr ""
+msgstr "enviat fa %(when)s per %(author)s a %(reddit)s"
 
 #: r2/templates/link.html:213
 #, python-format
 msgid "submitted %(when)s ago by %(author)s"
-msgstr ""
+msgstr "enviat fa %(when)s per %(author)s"
 
 #: r2/templates/linkinfobar.html:35
 msgid "this post was submitted on"
-msgstr ""
+msgstr "aquesta publicació va ser enviada el"
 
 #: r2/templates/linkinfobar.html:47
 msgid "like it"
-msgstr ""
+msgstr "m'agrada"
 
 #: r2/templates/linkinfobar.html:52
 msgid "up vote"
@@ -3213,35 +3247,35 @@ msgstr[1] ""
 #: r2/templates/linkinfopage.htmllite:28
 #, python-format
 msgid "comments from %(site)s"
-msgstr ""
+msgstr "comentaris de %(site)s"
 
 #: r2/templates/linkontrial.html:44
 msgid "reddit's spam filter needs your help!"
-msgstr ""
+msgstr "el filtre de spam de reddit necessita la teva ajuda!"
 
 #: r2/templates/linkontrial.html:51
 msgid "how would you classify this link?"
-msgstr ""
+msgstr "com classificaries aquest enllaç?"
 
 #: r2/templates/linkontrial.html:66
 msgid "off-topic / spam"
-msgstr ""
+msgstr "marxa del tema / spam"
 
 #: r2/templates/linkontrial.html:67
 msgid "kosher"
-msgstr ""
+msgstr "correcte"
 
 #: r2/templates/linkontrial.html:70
 msgid "thanks for voting!"
-msgstr ""
+msgstr "gràcies per votar!"
 
 #: r2/templates/linkontrial.html:73 r2/templates/spotlightlisting.html:71
 msgid "Click here for more info."
-msgstr ""
+msgstr "Clica aquí per a més informació."
 
 #: r2/templates/linkontrial.html:77
 msgid "those arrows are only for show; they don't actually do anything."
-msgstr ""
+msgstr "les fletxes només són per fer bonic; no fan res en realitat."
 
 #: r2/templates/listing.html:38 r2/templates/tablelisting.html:48
 msgid "view more:"
@@ -3249,7 +3283,7 @@ msgstr "veu-ne més:"
 
 #: r2/templates/listing.html:51 r2/templates/tablelisting.html:63
 msgid "there doesn't seem to be anything here"
-msgstr ""
+msgstr "sembla que no hi ha res aquí"
 
 #: r2/templates/login.html:34 r2/templates/register.html:34
 msgid "you are logged in. go use the site!"
@@ -3288,27 +3322,27 @@ msgstr "crea un compte"
 #: r2/templates/loginformwide.html:56 r2/templates/register.html:129
 #: r2/templates/register.html:153
 msgid "login"
-msgstr "accedeix"
+msgstr "inicia sessió"
 
 #: r2/templates/login.html:141 r2/templates/register.html:141
 msgid "create a new account"
-msgstr "crea un nou compte"
+msgstr "crea un compte nou"
 
 #: r2/templates/login.html:143 r2/templates/register.html:143
 msgid "all it takes is a username and password"
-msgstr "tot el que es necessita es un nom d'usuari i una contrasenya"
+msgstr "només cal és un nom d'usuari i una contrasenya"
 
 #: r2/templates/login.html:148 r2/templates/register.html:148
 msgid "is it really that easy? only one way to find out..."
-msgstr "realment és tan senzill? només tens una forma de comprovar-ho "
+msgstr "realment és tan senzill? només tens una manera de comprovar-ho..."
 
 #: r2/templates/login.html:155 r2/templates/register.html:155
 msgid "already have an account and just want to login?"
-msgstr "ja tens un compte i només vols accedir? "
+msgstr "ja tens un compte i només vols iniciar sessió?"
 
 #: r2/templates/message.html:50
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: r2/templates/message.html:56 r2/templates/message.xml:38
 #, python-format
@@ -3328,7 +3362,7 @@ msgstr "a %(dest)s de %(author)s enviat fa %(when)s"
 #: r2/templates/message.html:65 r2/templates/message.xml:47
 #, python-format
 msgid "%(author)s via %(subreddit)s"
-msgstr ""
+msgstr "%(author)s via %(subreddit)s"
 
 #: r2/templates/message.html:103
 msgid "expand all"
@@ -3348,7 +3382,7 @@ msgstr "envia un missatge"
 
 #: r2/templates/messagecompose.html:52
 msgid "(username, or # followed by the reddit name)"
-msgstr ""
+msgstr "(nom d'usuari, o # seguit del nom de reddit)"
 
 #: r2/templates/messagecompose.html:52
 msgid "to"
@@ -3356,7 +3390,7 @@ msgstr ""
 
 #: r2/templates/messagecompose.html:64
 msgid "subject"
-msgstr ""
+msgstr "assumpte"
 
 #: r2/templates/morechildren.html:38
 msgid "load more comments"
@@ -3370,72 +3404,73 @@ msgstr[1] "respostes"
 
 #: r2/templates/moremessages.html:38
 msgid "[+] load the full conversation."
-msgstr ""
+msgstr "[+] carrega la conversa sencera."
 
 #: r2/templates/morerecursion.html:29
 msgid "continue this thread"
-msgstr ""
+msgstr "continua aquest fil"
 
 #: r2/templates/newlink.html:36
 msgid "reddit"
-msgstr ""
+msgstr "reddit"
 
 #: r2/templates/newlink.html:38
 #, python-format
 msgid "submit to %(sr)s"
-msgstr ""
+msgstr "envia a %(sr)s"
 
 #: r2/templates/newlink.html:70 r2/templates/promotelinkform.html:270
 msgid "url"
-msgstr ""
+msgstr "url"
 
 #: r2/templates/newlink.html:80
 msgid "suggest title"
-msgstr ""
+msgstr "suggereix un títol"
 
 #: r2/templates/newlink.html:89 r2/templates/paymentform.html:115
 #: r2/templates/paymentform.html:121 r2/templates/sharelink.html:36
 #: r2/templates/sharelink.html:54 r2/templates/sharelink.html:73
 msgid "(optional)"
-msgstr ""
+msgstr "(opcional)"
 
 #: r2/templates/newlink.html:89
 msgid "text"
-msgstr ""
+msgstr "text"
 
 #: r2/templates/newlink.html:100
 msgid "choose a subreddit"
-msgstr ""
+msgstr "tria un subreddit"
 
 #: r2/templates/oauth2authorization.html:28
 #, python-format
 msgid ""
 "#[%(app_name)s](%(app_about_url)s) requests to connect with your reddit "
 "account."
-msgstr ""
+msgstr "#[%(app_name)s](%(app_about_url)s) demana connectar-se al teu compte "
+"de reddit."
 
 #: r2/templates/oauth2authorization.html:31
 #, python-format
 msgid "Allow %(app_name)s to:"
-msgstr ""
+msgstr "Permet %(app_name)s:"
 
 #: r2/templates/oauth2authorization.html:35
 #, python-format
 msgid "%(app_name)s will not be able to access your reddit password."
-msgstr ""
+msgstr "%(app_name)s no podrà accedir a la teva contrasenya."
 
 #: r2/templates/oauth2authorization.html:43
 msgid "Allow"
-msgstr ""
+msgstr "Permet"
 
 #: r2/templates/oauth2authorization.html:44
 msgid "Decline"
-msgstr ""
+msgstr "Rebutja"
 
 #: r2/templates/optout.html:26
 #, python-format
 msgid "The address '%(email)s' will no longer receive email from us."
-msgstr ""
+msgstr "L'adreça '%(email)s' no rebrà més correus electrònics de part nostra."
 
 #: r2/templates/optout.html:29
 msgid ""
@@ -3471,7 +3506,7 @@ msgstr ""
 
 #: r2/templates/over18.html:27
 msgid "you must be at least eighteen to view this reddit"
-msgstr ""
+msgstr "has de ser major de divuit anys per veure aquest reddit"
 
 #: r2/templates/over18.html:35
 msgid "are you over eighteen and willing to see adult content?"
@@ -3538,11 +3573,11 @@ msgstr "cognom"
 
 #: r2/templates/paymentform.html:115
 msgid "company"
-msgstr ""
+msgstr "empresa"
 
 #: r2/templates/paymentform.html:116
 msgid "address"
-msgstr ""
+msgstr "adreça"
 
 #: r2/templates/paymentform.html:117
 msgid "city"
@@ -3554,7 +3589,7 @@ msgstr ""
 
 #: r2/templates/paymentform.html:119
 msgid "zip"
-msgstr ""
+msgstr "codi postal"
 
 #: r2/templates/paymentform.html:120
 msgid "country"
@@ -3570,11 +3605,11 @@ msgstr ""
 
 #: r2/templates/paymentform.html:122
 msgid "(14-17 digits)"
-msgstr ""
+msgstr "(14-17 dígits)"
 
 #: r2/templates/paymentform.html:123
 msgid "expiration date"
-msgstr ""
+msgstr "data de caducitat"
 
 #: r2/templates/paymentform.html:124
 msgid "CCV"
@@ -3582,11 +3617,11 @@ msgstr ""
 
 #: r2/templates/paymentform.html:124
 msgid "(3 or 4 digits)"
-msgstr ""
+msgstr "(3 o 4 dígits)"
 
 #: r2/templates/paymentform.html:181
 msgid "authorize payment"
-msgstr ""
+msgstr "autoritza el pagament"
 
 #: r2/templates/paymentform.html:184 r2/templates/printablebuttons.html:159
 #: r2/templates/printablebuttons.html:193
@@ -3600,11 +3635,11 @@ msgstr ""
 
 #: r2/templates/permalinkmessage.html:26
 msgid "view the rest of the comments"
-msgstr ""
+msgstr "visualitza la resta dels comentaris"
 
 #: r2/templates/prefdelete.html:28
 msgid "delete your reddit account"
-msgstr ""
+msgstr "esborra el teu compte de reddit"
 
 #: r2/templates/prefdelete.html:31
 msgid "deleting..."
@@ -3612,7 +3647,7 @@ msgstr "esborrant"
 
 #: r2/templates/prefdelete.html:34
 msgid "sorry to see you go!"
-msgstr ""
+msgstr "ens sap greu que marxis!"
 
 #: r2/templates/prefdelete.html:36
 msgid ""
@@ -3620,15 +3655,18 @@ msgid ""
 "feedback) about it before deleting your account.\n"
 " * deleting your account will not delete the content of posts and comments "
 "you've made on reddit. to do so, please delete them individually."
-msgstr ""
+msgstr "* si tens algun problema a reddit, considera [posar-te en contacte amb "
+nosaltres](/feedback) abans d'esborrar el teu compte. \n"
+" * esborrar el teu compte no esborrarà el contingut de les publicacions i "
+"comentaris que hagis fet a reddit. per fer-ho els has d'esborrar d'un en un."
 
 #: r2/templates/prefdelete.html:45
 msgid "why are you deleting this account?"
-msgstr ""
+msgstr "per què esborres aquest compte?"
 
 #: r2/templates/prefdelete.html:52
 msgid "for security purposes"
-msgstr ""
+msgstr "per raons de seguretat"
 
 #: r2/templates/prefdelete.html:52
 msgid "account credentials"
@@ -3636,15 +3674,15 @@ msgstr ""
 
 #: r2/templates/prefdelete.html:63
 msgid "confirmation"
-msgstr ""
+msgstr "confirmació"
 
 #: r2/templates/prefdelete.html:66
 msgid "I understand that deleted accounts are not recoverable."
-msgstr ""
+msgstr "Entenc que els comptes esborrats no són recuperables."
 
 #: r2/templates/prefdelete.html:73
 msgid "delete account"
-msgstr ""
+msgstr "esborra el compte"
 
 #: r2/templates/preffeeds.html:29
 msgid "Private RSS feeds"
@@ -3661,47 +3699,49 @@ msgstr ""
 msgid ""
 "Keep in mind that these urls are intended to be private, so **share at your "
 "own risk.**"
-msgstr ""
+msgstr "Tingues en compte que aquestes url són fetes per ser privades, així que "
+"**comparteix sota la teva responsabilitat**."
 
 #: r2/templates/preffeeds.html:33
 msgid "All feeds are invalidated if you change your password, however."
-msgstr ""
+msgstr "De tota manera tots els canals quedaran invalidats si canvies la "
+"contrasenya."
 
 #: r2/templates/preffeeds.html:54
 msgid "your front page"
-msgstr ""
+msgstr "la teva pàgina inicial"
 
 #: r2/templates/preffeeds.html:57
 msgid "your saved links"
-msgstr ""
+msgstr "els teus enllaços desats"
 
 #: r2/templates/preffeeds.html:64
 msgid "links you've liked"
-msgstr ""
+msgstr "enllaços que t'han agradat"
 
 #: r2/templates/preffeeds.html:67
 msgid "links you've disliked"
-msgstr ""
+msgstr "enllaços que t'han desagradat"
 
 #: r2/templates/preffeeds.html:70
 msgid "links you've hidden"
-msgstr ""
+msgstr "enllaços que has amagat"
 
 #: r2/templates/preffeeds.html:77 r2/templates/preffeeds.html:97
 msgid "everything"
-msgstr ""
+msgstr "tot"
 
 #: r2/templates/preffeeds.html:80 r2/templates/preffeeds.html:100
 msgid "unread messages"
-msgstr ""
+msgstr "missatges no llegits"
 
 #: r2/templates/preffeeds.html:83
 msgid "messages only"
-msgstr ""
+msgstr "només missatges"
 
 #: r2/templates/preffeeds.html:86
 msgid "comment replies only"
-msgstr ""
+msgstr "només respostes a comentaris"
 
 #: r2/templates/preffeeds.html:89
 msgid "self-post replies only"
@@ -3713,7 +3753,7 @@ msgstr "les teves preferències s'han actualitzat"
 
 #: r2/templates/prefoptions.html:89
 msgid "interface language"
-msgstr "llengua de la interficie "
+msgstr "llengua de la interfície"
 
 #: r2/templates/prefoptions.html:93
 msgid "incomplete"
@@ -3783,7 +3823,7 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:146
 msgid "show me links I've recently viewed"
-msgstr ""
+msgstr "mostra'm enllaços que he vist últimament"
 
 #: r2/templates/prefoptions.html:147
 msgid "compress the link display"
@@ -3795,7 +3835,7 @@ msgstr "no mostris els enllaços un cop m'han agradat"
 
 #: r2/templates/prefoptions.html:150 r2/templates/prefoptions.html:154
 msgid "(except my own)"
-msgstr ""
+msgstr "(excepte els meus)"
 
 #: r2/templates/prefoptions.html:152
 msgid "don't show links after i've disliked them"
@@ -3833,7 +3873,7 @@ msgstr "no em mostris els enllaços amb una puntuació inferior a %(num)s"
 
 #: r2/templates/prefoptions.html:174 r2/templates/prefoptions.html:187
 msgid "(blank for none)"
-msgstr ""
+msgstr "(en blanc per cap)"
 
 #: r2/templates/prefoptions.html:179
 msgid "comment options"
@@ -3855,11 +3895,11 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:206
 msgid "messaging options"
-msgstr ""
+msgstr "opcions de missatgeria"
 
 #: r2/templates/prefoptions.html:208
 msgid "show message conversations in the inbox"
-msgstr ""
+msgstr "mostra les converses a la bústia d'entrada"
 
 #: r2/templates/prefoptions.html:211
 msgid "(only applies when you go to the 'messages' panel)"
@@ -3875,11 +3915,11 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:222
 msgid "mark messages as read when I open my inbox"
-msgstr ""
+msgstr "marca els missatges com a llegits quan obri la bústia d'entrada"
 
 #: r2/templates/prefoptions.html:225
 msgid "(otherwise, they will be marked as read when you click them)"
-msgstr ""
+msgstr "(si no, es marcaran com a llegits quan els cliquis)"
 
 #: r2/templates/prefoptions.html:230 r2/templates/widgetdemopanel.html:193
 msgid "display options"
@@ -3932,11 +3972,11 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:267
 msgid "allow my data to be used for research purposes"
-msgstr ""
+msgstr "permet que les meves dades es facin servir per a recerca"
 
 #: r2/templates/prefoptions.html:277
 msgid "don't allow search engines to index my user profile"
-msgstr ""
+msgstr "no permetis als motors de cerca indexar el meu perfil d'usuari"
 
 #: r2/templates/prefoptions.html:285
 msgid "load core JS libraries from reddit servers"
@@ -3972,7 +4012,7 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:311
 msgid "highlight new comments"
-msgstr ""
+msgstr "destaca els comentaris nous"
 
 #: r2/templates/prefoptions.html:313
 msgid ""
@@ -3982,7 +4022,7 @@ msgstr ""
 
 #: r2/templates/prefupdate.html:28
 msgid "update your email or password"
-msgstr "actualitza el seu correu o contrasenya"
+msgstr "actualitza el teu correu o contrasenya"
 
 #: r2/templates/prefupdate.html:31
 msgid "verify your email"
@@ -3990,7 +4030,7 @@ msgstr "verifica el teu correu"
 
 #: r2/templates/prefupdate.html:33
 msgid "update your email"
-msgstr "actualitza el seu correu"
+msgstr "actualitza el teu correu"
 
 #: r2/templates/prefupdate.html:36
 msgid "update your password"
@@ -4010,7 +4050,7 @@ msgstr "verificació pendent"
 
 #: r2/templates/prefupdate.html:52
 msgid "click to resend"
-msgstr ""
+msgstr "clica per tornar-ho a enviar"
 
 #: r2/templates/prefupdate.html:54
 msgid "unverified"
@@ -4018,19 +4058,19 @@ msgstr "sense verificar"
 
 #: r2/templates/prefupdate.html:55
 msgid "click to verify"
-msgstr ""
+msgstr "clica per verificar"
 
 #: r2/templates/prefupdate.html:65
 msgid "(required)"
-msgstr ""
+msgstr "(requerit)"
 
 #: r2/templates/prefupdate.html:65
 msgid "current password"
-msgstr ""
+msgstr "contrasenya actual"
 
 #: r2/templates/prefupdate.html:80 r2/templates/resetpassword.html:38
 msgid "new password"
-msgstr ""
+msgstr "contrasenya nova"
 
 #: r2/templates/prefupdate.html:96
 msgid "send verification email"
@@ -4057,13 +4097,13 @@ msgstr "eliminat"
 
 #: r2/templates/printablebuttons.html:51
 msgid "approve"
-msgstr ""
+msgstr "aprova"
 
 #: r2/templates/printablebuttons.html:52
 #: r2/templates/printablebuttons.html:143
 #: r2/templates/subredditinfobar.html:82
 msgid "approved"
-msgstr ""
+msgstr "aprovat"
 
 #: r2/templates/printablebuttons.html:58
 msgid "report"
@@ -4075,7 +4115,7 @@ msgstr ""
 
 #: r2/templates/printablebuttons.html:62
 msgid "marked"
-msgstr ""
+msgstr "marcat"
 
 #: r2/templates/printablebuttons.html:65
 msgid "un-nsfw"
@@ -4128,15 +4168,15 @@ msgstr "amagades"
 
 #: r2/templates/printablebuttons.html:212
 msgid "reject"
-msgstr ""
+msgstr "rebutja"
 
 #: r2/templates/printablebuttons.html:217
 msgid "accept"
-msgstr ""
+msgstr "accepta"
 
 #: r2/templates/printablebuttons.html:217
 msgid "accepted"
-msgstr ""
+msgstr "acceptat"
 
 #: r2/templates/printablebuttons.html:223
 msgid "traffic"
@@ -4186,15 +4226,15 @@ msgstr "respon"
 
 #: r2/templates/printablebuttons.html:326
 msgid "block user"
-msgstr ""
+msgstr "bloqueja l'usuari"
 
 #: r2/templates/printablebuttons.html:326
 msgid "blocked"
-msgstr ""
+msgstr "bloquejat"
 
 #: r2/templates/printablebuttons.html:330
 msgid "mark unread"
-msgstr ""
+msgstr "marca com a no llegit"
 
 #: r2/templates/printablebuttons.html:384
 msgid "are you sure?"
@@ -4308,19 +4348,19 @@ msgstr ""
 
 #: r2/templates/promotelinkform.html:301
 msgid "upload header image:"
-msgstr ""
+msgstr "puja una imatge per a la capçalera:"
 
 #: r2/templates/promotelinkform.html:330
 msgid "disable comments"
-msgstr ""
+msgstr "desactiva els comentaris"
 
 #: r2/templates/promotelinkform.html:362
 msgid "width"
-msgstr ""
+msgstr "amplada"
 
 #: r2/templates/promotelinkform.html:370
 msgid "height"
-msgstr ""
+msgstr "alçada"
 
 #: r2/templates/promotelinkform.html:415 r2/templates/promotelinkform.html:496
 msgid "promotion history"
@@ -4354,11 +4394,11 @@ msgstr "Política de privacitat"
 #: r2/templates/redditfooter.html:53
 #, python-format
 msgid "%(year)d reddit inc. All rights reserved."
-msgstr ""
+msgstr "%(year)d reddit inc. Tots els drets reservats."
 
 #: r2/templates/redditheader.html:32
 msgid "jump to content"
-msgstr ""
+msgstr "salta al contingut"
 
 #: r2/templates/redditheader.html:71
 #, python-format
@@ -4373,7 +4413,7 @@ msgstr ""
 #: r2/templates/reddittraffic.html:86 r2/templates/reddittraffic.html:185
 #: r2/templates/reddittraffic.html:204
 msgid "date"
-msgstr ""
+msgstr "data"
 
 #: r2/templates/reddittraffic.html:49 r2/templates/reddittraffic.html:51
 #: r2/templates/reddittraffic.html:56 r2/templates/reddittraffic.html:87
@@ -4391,7 +4431,7 @@ msgstr ""
 
 #: r2/templates/reddittraffic.html:53 r2/templates/reddittraffic.html:59
 msgid "subscriptions"
-msgstr ""
+msgstr "subscripcions"
 
 #: r2/templates/reddittraffic.html:103
 msgid "Daily Mean"
@@ -4426,7 +4466,7 @@ msgstr ""
 
 #: r2/templates/searchbar.html:52
 msgid "satisfied?"
-msgstr ""
+msgstr "satisfet?"
 
 #: r2/templates/searchbar.html:56
 msgid "thanks for your feedback!"
@@ -4446,7 +4486,7 @@ msgstr ""
 
 #: r2/templates/searchform.html:40
 msgid "search for {text} in url"
-msgstr ""
+msgstr "cerca {text} a la url"
 
 #: r2/templates/searchform.html:42
 msgid "search for {text} in self post contents"
@@ -4466,7 +4506,7 @@ msgstr ""
 
 #: r2/templates/searchform.html:53
 msgid "advanced search: by author, community..."
-msgstr ""
+msgstr "cerca avançada: per autor, comunitat..."
 
 #: r2/templates/searchform.html:61
 msgid "search reddit"
@@ -4475,7 +4515,7 @@ msgstr ""
 #: r2/templates/searchform.html:67 r2/templates/searchform.html:79
 #, python-format
 msgid "limit my search to %(path)s"
-msgstr ""
+msgstr "limita la meva cerca a %(path)s"
 
 #: r2/templates/share.email:32
 #, python-format
@@ -4483,35 +4523,35 @@ msgid ""
 "There is currently %(num_comments)s on this link.  You can view it here:"
 msgid_plural ""
 "There are currently %(num_comments)s on this link.  You can view them here:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Hi ha %(num_comments)s en aquest enllaç. Pots veure'l aquí:"
+msgstr[1] "Hi ha %(num_comments)s en aquest enllaç. Pots veure'ls aquí:"
 
 #: r2/templates/sharelink.html:15
 msgid "send this link to"
-msgstr ""
+msgstr "envia aquest enllaç a"
 
 #: r2/templates/sharelink.html:51
 msgid "your email"
-msgstr ""
+msgstr "el teu correu electrònic"
 
 #: r2/templates/sharelink.html:70
 msgid "message {share form}"
-msgstr ""
+msgstr "missatge"
 
 #: r2/templates/sharelink.html:79
 #, python-format
 msgid "%(user)s from http://%(site)s/ has shared a link with you."
-msgstr ""
+msgstr "%(user)s de http://%(site)s/ ha compartit un enllaç amb tu."
 
 #: r2/templates/spotlightlisting.html:59
 #, python-format
 msgid "Click %(here)s to close help."
-msgstr ""
+msgstr "Clica %(here)s per tancar l'ajuda."
 
 #: r2/templates/spotlightlisting.html:60 r2/templates/spotlightlisting.html:74
 #: r2/templates/spotlightlisting.html:101
 msgid "here"
-msgstr ""
+msgstr "aquí"
 
 #: r2/templates/spotlightlisting.html:68
 msgid ""
@@ -4522,13 +4562,13 @@ msgstr ""
 #: r2/templates/spotlightlisting.html:74
 #: r2/templates/spotlightlisting.html:101
 msgid "This element has been disabled."
-msgstr ""
+msgstr "Aquest element ha estat desactivat."
 
 #: r2/templates/spotlightlisting.html:76
 #: r2/templates/spotlightlisting.html:103
 #, python-format
 msgid "Click %(here)s to disable this feature."
-msgstr ""
+msgstr "Clica %(here)s per desactivar aquesta funció."
 
 #: r2/templates/spotlightlisting.html:96
 msgid ""
@@ -4549,11 +4589,11 @@ msgstr ""
 
 #: r2/templates/subreddit.html:65
 msgid "unsubscribe"
-msgstr ""
+msgstr "cancel·la la subscripció"
 
 #: r2/templates/subreddit.html:86 r2/templates/subreddit.html:87
 msgid "not approved"
-msgstr ""
+msgstr "no aprovat"
 
 #: r2/templates/subreddit.html:98
 msgid "over18"
@@ -4566,15 +4606,15 @@ msgstr "deixa"
 #: r2/templates/subredditinfobar.html:48
 #, python-format
 msgid "you are a moderator of this reddit. (%(leave)s)"
-msgstr ""
+msgstr "ets moderador d'aquest reddit. (%(leave)s)"
 
 #: r2/templates/subredditinfobar.html:49
 msgid "stop being a moderator?"
-msgstr ""
+msgstr "deixar de ser moderador?"
 
 #: r2/templates/subredditinfobar.html:50
 msgid "you are no longer a moderator"
-msgstr ""
+msgstr "ja no ets moderador"
 
 #: r2/templates/subredditinfobar.html:56
 #, python-format
@@ -4596,23 +4636,23 @@ msgstr ""
 
 #: r2/templates/subredditinfobar.html:75
 msgid "a community for"
-msgstr ""
+msgstr "una comunitat per"
 
 #: r2/templates/subredditinfobar.html:81
 msgid "approve this reddit"
-msgstr ""
+msgstr "aprova aquest reddit"
 
 #: r2/templates/subredditinfobar.html:89
 msgid "ban this reddit"
-msgstr ""
+msgstr "prohibeix aquest reddit"
 
 #: r2/templates/subredditstylesheet.html:71
 msgid "show the default stylesheet"
-msgstr ""
+msgstr "mostra el full d'estil per defecte"
 
 #: r2/templates/subredditstylesheet.html:72
 msgid "hide the default stylesheet"
-msgstr ""
+msgstr "amaga el full d'estil per defecte"
 
 #: r2/templates/subredditstylesheet.html:82
 #: r2/templates/subredditstylesheet.html:265
@@ -4621,11 +4661,11 @@ msgstr ""
 
 #: r2/templates/subredditstylesheet.html:97
 msgid "images"
-msgstr ""
+msgstr "imatges"
 
 #: r2/templates/subredditstylesheet.html:101
 msgid "image file"
-msgstr ""
+msgstr "arxiu d'imatge"
 
 #: r2/templates/subredditstylesheet.html:104
 msgid "new image name:"
@@ -4633,33 +4673,35 @@ msgstr ""
 
 #: r2/templates/subredditstylesheet.html:109
 msgid "(image names should consist of alphanumeric characters and '-' only)"
-msgstr ""
+msgstr "(els noms de les imatges haurien de consistir només de caràcters "
+"alfanumèrics i '-')"
 
 #: r2/templates/subredditstylesheet.html:113
 msgid ""
 "Note: any changes to images here will be reflected immediately on reload and "
 "cannot be undone."
-msgstr ""
+msgstr "Nota: qualsevol canvi fet a les imatges aquí serà reflectit immediatament en "
+"recarregar la pàgina i no es pot desfer."
 
 #: r2/templates/subredditstylesheet.html:208
 msgid "please select an image"
-msgstr ""
+msgstr "selecciona una imatge si us plau"
 
 #: r2/templates/subredditstylesheet.html:243
 msgid "paste into stylesheet"
-msgstr ""
+msgstr "enganxa al full d'estil"
 
 #: r2/templates/subredditstylesheet.html:246
 msgid "delete this image"
-msgstr ""
+msgstr "esborra aquesta imatge"
 
 #: r2/templates/subredditstylesheet.html:268
 msgid "normal link"
-msgstr ""
+msgstr "enllaç normal"
 
 #: r2/templates/subredditstylesheet.html:272
 msgid "compressed link"
-msgstr ""
+msgstr "enllaç comprimit"
 
 #: r2/templates/subredditstylesheet.html:276
 msgid "link with thumbnail"
@@ -4667,11 +4709,11 @@ msgstr ""
 
 #: r2/templates/tablelisting.html:50
 msgid "first"
-msgstr ""
+msgstr "primer"
 
 #: r2/templates/thanks.html:34
 msgid "thanks for subscribing!"
-msgstr ""
+msgstr "gràcies per subscriure't!"
 
 #: r2/templates/thanks.html:39
 msgid "enter your confirmation code below to claim your gift creddits"
@@ -4734,19 +4776,19 @@ msgstr ""
 
 #: r2/templates/useriphistory.html:30
 msgid "Recent activity on your account"
-msgstr ""
+msgstr "Activitat recent en el teu compte"
 
 #: r2/templates/useriphistory.html:39
 msgid "IP address"
-msgstr ""
+msgstr "Adreça IP"
 
 #: r2/templates/useriphistory.html:40
 msgid "Location"
-msgstr ""
+msgstr "Localització"
 
 #: r2/templates/useriphistory.html:41
 msgid "Last Visit"
-msgstr ""
+msgstr "Última visita"
 
 #: r2/templates/userlist.html:37
 msgid "add"
@@ -4796,15 +4838,15 @@ msgstr "algunes llengües"
 
 #: r2/templates/utils.html:284
 msgid "Type: "
-msgstr ""
+msgstr "Tipus: "
 
 #: r2/templates/utils.html:294
 msgid "uploading"
-msgstr ""
+msgstr "pujant"
 
 #: r2/templates/utils.html:296
 msgid "upload"
-msgstr ""
+msgstr "puja"
 
 #: r2/templates/utils.html:505
 msgid "popular choices"
@@ -4823,7 +4865,7 @@ msgid ""
 msgstr ""
 "només has de copiar i enganxar el codi generat a la teva web i el feed "
 "especificat per %(site)s es mostrarà i s'actualitzarà mesura que arribin "
-"noves histories"
+"noves històries"
 
 #: r2/templates/widgetdemopanel.html:115
 msgid "which links do you want to display?"
@@ -4856,7 +4898,7 @@ msgstr ""
 #: r2/templates/widgetdemopanel.html:151
 #, python-format
 msgid "links from %(domain)s"
-msgstr ""
+msgstr "enllaços de %(domain)s"
 
 #: r2/templates/widgetdemopanel.html:155
 #, python-format
@@ -4912,19 +4954,19 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:221
 msgid "two columns"
-msgstr ""
+msgstr "dues columnes"
 
 #: r2/templates/widgetdemopanel.html:228
 msgid "background color"
-msgstr ""
+msgstr "color de fons"
 
 #: r2/templates/widgetdemopanel.html:232
 msgid "(e.g., FF0000 = red)"
-msgstr ""
+msgstr "(p. ex.: FF0000 = vermell)"
 
 #: r2/templates/widgetdemopanel.html:239
 msgid "border color"
-msgstr ""
+msgstr "color de la vora"
 
 #: r2/templates/widgetdemopanel.html:249
 msgid "the code"
@@ -4986,7 +5028,7 @@ msgstr ""
 #~ msgstr "ets contribuïdor"
 
 #~ msgid "below are the reddits that you have contributor access to."
-#~ msgstr "abaix tens els reddits als quals tens accés de contribuïdor."
+#~ msgstr "a sota tens els reddits als quals tens accés de contribuïdor."
 
 #~ msgid "contributor"
 #~ msgid_plural "contributors"
@@ -5004,8 +5046,8 @@ msgstr ""
 
 #~ msgid "millisecond"
 #~ msgid_plural "milliseconds"
-#~ msgstr[0] "milisegon"
-#~ msgstr[1] "milisegons"
+#~ msgstr[0] "mil·lisegon"
+#~ msgstr[1] "mil·lisegons"
 
 #~ msgid "reddit.com: what's new online!"
 #~ msgstr "reddit: el que és nou en línia"
